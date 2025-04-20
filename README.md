@@ -132,7 +132,7 @@ const languages = { en, es, lt, fr }; // Add `fr` here
 ---
 
 > [!WARNING]
-> **Fake or Malicious Files**: Submitting fake or harmful files is strictly prohibited. All pull requests are scanned for malicious content, and violations will result in immediate rejection and potential reporting.
+> **Fake or Malicious Files**: Submitting fake or harmful files is strictly prohibited. All pull requests are scanned for malicious content, and violations will result in immediate rejection and potential reporting.<br>
 > **Translation Accuracy**: Ensure translations are accurate and contextually appropriate. Poor-quality translations may be rejected.
 
 ---
