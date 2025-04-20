@@ -49,7 +49,17 @@ The project uses the following structure for language support:
  * Discord: [Your Discord Username]
  * Last Updated: [Date]
  *
- * Note: Do not modify placeholders, team names, or user names (e.g., "RejectModders", "Disutils Team").
+ * Usage:
+ * - This file is automatically loaded by the language middleware.
+ * - Ensure all keys match the structure defined in the base language file (e.g., `en.js`).
+ * - Do not remove or rename keys, as this may break functionality.
+ *
+ * Guidelines:
+ * - Placeholders (e.g., {seconds}, {minutes}) must remain intact.
+ * - Team names, user names, and specific terms (e.g., "RejectModders", "Disutils Team") must not be translated.
+ * - Use consistent formatting and indentation for readability.
+ *
+ * Note: If adding new keys, ensure they are added to all other language files for consistency.
  */
 
 module.exports = {
