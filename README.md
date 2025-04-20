@@ -9,6 +9,7 @@
 - [Adding a New Language](#adding-a-new-language)
 - [Updating the Middleware](#updating-the-middleware)
 - [Translation Guidelines](#translation-guidelines)
+- [Special Section: Error Messages](#special-section-error-messages)
 - [Common Errors and Solutions](#common-errors-and-solutions)
 - [Pull Request Guidelines](#pull-request-guidelines)
 - [Example Language File](#example-language-file-french-frjs)
@@ -97,6 +98,13 @@ module.exports = {
     },
 
     // Add other sections like `navsub`, `footer`, `home`, etc., following the structure in `en.js`.
+    
+    // Don't forget the errors section, which can include culturally-appropriate humor
+    errors: {
+        badrequest: "Bad Request!",
+        unauthorized: "Unauthorized Access!",
+        // Include all error keys and messages...
+    }
 };
 ```
 
@@ -148,6 +156,7 @@ const languages = { en, es, lt, fr }; // Add `fr` here
 - ✅ Maintain HTML tags (e.g., `<a>`, `<strong>`) in their original position
 - ✅ Use appropriate cultural and linguistic adaptations where necessary
 - ✅ Follow proper grammar, punctuation, and capitalization rules of the target language
+- ✅ Be creative with error messages while keeping them appropriate (see Special Section below)
 
 ### DON'Ts
 - ❌ Translate team names, product names, or brand names (e.g., "Disutils Team", "RejectModders")
@@ -155,7 +164,46 @@ const languages = { en, es, lt, fr }; // Add `fr` here
 - ❌ Remove, modify, or reposition placeholders
 - ❌ Translate variable names or code comments
 - ❌ Use machine translation without proper review and editing
-- ❌ Add jokes, political statements, or inappropriate content
+- ❌ Add political, offensive, or inappropriate content (even in humor sections)
+
+---
+
+## Special Section: Error Messages
+
+The `errors` section in language files allows for creative humor and culturally-relevant jokes. This is the **only** section where you can deviate from direct translation to include humor appropriate to the target language and culture.
+
+### Guidelines for Error Messages
+- Keep humor friendly and appropriate for all ages
+- Adapt jokes to be culturally relevant for the target language
+- Maintain the same meaning/intent of the error message
+- Preserve all HTML links and formatting
+- Ensure humor doesn't target specific groups or include offensive material
+
+### Example of the `errors` Section
+```javascript
+errors: {
+    badrequest: "Bad Request!",
+    unauthorized: "Unauthorized Access!",
+    forbidden: "Forbidden Zone!",
+    notfound: "Lost in Space!",
+    internalservererror: "Server Meltdown!",
+    unknownerror: "Unknown Error!",
+
+    badrequesttext: "Bad Request! That was more confusing than a cat doing calculus. Try again, but maybe with fewer typos and more coffee.",
+    unauthorizedtext: "Unauthorized! Who goes there?! Only those with the sacred credentials may pass. Speak 'friend' and enter... or just log in properly.",
+    forbiddentext: "Forbidden! You've stumbled into the forbidden zone. Legend says only the Chosen One may enter. Spoiler: it's not you.",
+    notfoundtext: "Not Found! This page has gone on vacation, left no forwarding address, and isn't answering texts. Try looking elsewhere before we file a missing page report.",
+    internalservererrortext: "Internal Server Error! The server just rage-quit. We're bribing it with snacks and compliments. Please stand by.",
+    unknownerrortext: "Unknown Error! Something broke in a mysterious, dramatic way. Even our tech wizard is scratching his beard. Try again, or summon a goat for sacrifice. (Just kidding... mostly.)",
+
+    home: "Go back home",
+    searchnow: "Why not try to search again? <a class=\"uc-link\" href=\"#uc-search-modal\" data-uc-toggle>Search now</a>",
+    searchtext: "What are you looking for?",
+    searchkeyword: "Type your keyword..."
+}
+```
+
+When translating these messages, feel free to adapt the humor to match your language's cultural context while keeping the messages appropriate and friendly.
 
 ---
 
@@ -196,25 +244,25 @@ Before submitting a Pull Request (PR) with your new language integration, please
    - Your file includes translations for ALL sections and keys in the base language file
    - No placeholder content or temporary translations remain
 
-2. **Testing**
-   - You have locally tested the language integration (if possible)
-   - All placeholders and dynamic content render correctly
-
-3. **PR Description**
+2. **Documentation**
    - Include the language name and code in the PR title (e.g., "Add French (fr) Translation")
    - Mention your fluency level in the language
-   - Note any specific cultural adaptations you made
+   - Note any specific cultural adaptations you made, especially in the `errors` section
 
-4. **Self-Review Checklist**
+3. **Self-Review Checklist**
    - [ ] My translation follows the structure of the base language file
    - [ ] All placeholders and HTML tags are preserved
    - [ ] Team names and product names are not translated
    - [ ] The file uses proper indentation and formatting
    - [ ] I have updated the middleware file correctly
    - [ ] My file includes the appropriate documentation header
+   - [ ] The humor in my `errors` section is appropriate and culturally relevant
 
-5. **Responsiveness**
+4. **Responsiveness**
    - Be prepared to respond to review comments and make requested changes
+
+> [!NOTE]
+> **No Testing Required**: Since the website is not open source, you cannot test your translation directly. Focus on accuracy and completeness according to the base language file.
 
 PRs that do not meet these guidelines may be delayed or rejected. We appreciate your contribution and want to ensure the quality and consistency of the project.
 
@@ -253,6 +301,27 @@ module.exports = {
         contact: "Contactez-nous",
         more: "Plus",
         login: "Connexion"
+    },
+    
+    errors: {
+        badrequest: "Requête Incorrecte !",
+        unauthorized: "Accès Non Autorisé !",
+        forbidden: "Zone Interdite !",
+        notfound: "Perdu dans l'Espace !",
+        internalservererror: "Panne du Serveur !",
+        unknownerror: "Erreur Inconnue !",
+
+        badrequesttext: "Requête Incorrecte ! C'était plus confus qu'un chat qui fait du calcul. Essayez à nouveau, mais peut-être avec moins de fautes de frappe et plus de café.",
+        unauthorizedtext: "Non Autorisé ! Qui va là ?! Seuls ceux qui possèdent les identifiants sacrés peuvent passer. Dites 'ami' et entrez... ou connectez-vous correctement.",
+        forbiddentext: "Interdit ! Vous avez trébuché dans la zone interdite. La légende dit que seul l'Élu peut entrer. Spoiler : ce n'est pas vous.",
+        notfoundtext: "Page Non Trouvée ! Cette page est partie en vacances, n'a laissé aucune adresse et ne répond pas aux SMS. Essayez de chercher ailleurs avant que nous ne déposions un rapport de page disparue.",
+        internalservererrortext: "Erreur Interne du Serveur ! Le serveur vient de quitter de rage. Nous le soudoyons avec des friandises et des compliments. Veuillez patienter.",
+        unknownerrortext: "Erreur Inconnue ! Quelque chose s'est cassé de façon mystérieuse et dramatique. Même notre magicien tech se gratte la barbe. Essayez à nouveau, ou invoquez une chèvre pour sacrifice. (Je plaisante... en partie.)",
+
+        home: "Retourner à l'accueil",
+        searchnow: "Pourquoi ne pas essayer de chercher à nouveau ? <a class=\"uc-link\" href=\"#uc-search-modal\" data-uc-toggle>Chercher maintenant</a>",
+        searchtext: "Que cherchez-vous ?",
+        searchkeyword: "Tapez votre mot-clé..."
     },
 
     // Add other sections like `navsub`, `footer`, `home`, etc., following the structure in `en.js`.
