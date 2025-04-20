@@ -1,7 +1,7 @@
 # Language Integration Documentation for Disutils Team Website
 
 > [!NOTE]
-> This documentation provides a professional and detailed guide on how to create and integrate new language files for the Disutils Team website. It is essential to follow these instructions to ensure consistency, proper functionality, and adherence to project standards.
+> This documentation provides a professional and detailed guide on how to create and integrate new language files for the Disutils Team website. It is essential to follow these instructions to ensure consistency, proper functionality, and adherence to project standards..
 
 ## Table of Contents
 - [Overview](#overview)
