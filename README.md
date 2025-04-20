@@ -119,25 +119,6 @@ const fr = require('../languages/fr'); // Add this line
 
 const languages = { en, es, lt, fr }; // Add `fr` here
 ```
-
-3. Update the `if` condition to include the new language code:
-```javascript
-if (Object.keys(languages).includes(lang)) { // Automatically checks all supported languages
-    req.language = lang;
-    req.translations = languages[lang];
-    res.cookie('language', lang, { maxAge: 30 * 24 * 60 * 60 * 1000 });
-    next();
-}
-```
-
----
-
-## **Testing the New Language**
-
-1. Start the server.
-2. Access the website with the new language code in the URL (e.g., `/fr` for French).
-3. Verify that all translations are displayed correctly and that the structure matches the base language file (`en.js`).
-
 ---
 
 ## **Best Practices**
@@ -150,10 +131,10 @@ if (Object.keys(languages).includes(lang)) { // Automatically checks all support
 
 ---
 
-## **Warning**
-
-- **Fake or Malicious Files**: Submitting fake or harmful files is strictly prohibited. All pull requests are scanned for malicious content, and violations will result in immediate rejection and potential reporting.
-- **Translation Accuracy**: Ensure translations are accurate and contextually appropriate. Poor-quality translations may be rejected.
+> **⚠️ Warning**
+> 
+> - **Fake or Malicious Files**: Submitting fake or harmful files is strictly prohibited. All pull requests are scanned for malicious content, and violations will result in immediate rejection and potential reporting.
+> - **Translation Accuracy**: Ensure translations are accurate and contextually appropriate. Poor-quality translations may be rejected.
 
 ---
 
