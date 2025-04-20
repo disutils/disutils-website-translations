@@ -1,18 +1,33 @@
 # Language Integration Documentation for Disutils Team Website
 
-This documentation provides a professional and detailed guide on how to create and integrate new language files for the Disutils Team website. It is essential to follow these instructions to ensure consistency, proper functionality, and adherence to project standards.
+> [!NOTE]
+> This documentation provides a professional and detailed guide on how to create and integrate new language files for the Disutils Team website. It is essential to follow these instructions to ensure consistency, proper functionality, and adherence to project standards.
+
+## Table of Contents
+- [Overview](#overview)
+- [Directory Structure](#directory-structure)
+- [Adding a New Language](#adding-a-new-language)
+- [Updating the Middleware](#updating-the-middleware)
+- [Translation Guidelines](#translation-guidelines)
+- [Common Errors and Solutions](#common-errors-and-solutions)
+- [Pull Request Guidelines](#pull-request-guidelines)
+- [Example Language File](#example-language-file-french-frjs)
+- [Code of Conduct](#code-of-conduct)
 
 ---
 
-## **Important Requirements**
+## Overview
 
-1. **Language Proficiency**: Contributors must have a strong understanding of English or one of the existing languages in the `languages` directory. This ensures accurate translations and avoids errors.
-2. **File Integrity**: Do not create fake or malicious files. All pull requests are thoroughly scanned for inappropriate or harmful content. Violations will result in immediate rejection and potential reporting.
-3. **Code of Conduct**: Respect the structure, placeholders, and naming conventions outlined in this documentation.
+> [!IMPORTANT]
+> **Language Proficiency**: Contributors must have a strong understanding of English or one of the existing languages in the `languages` directory. This ensures accurate translations and avoids errors.
+>
+> **File Integrity**: Do not create fake or malicious files. All pull requests are thoroughly scanned for inappropriate or harmful content. Violations will result in immediate rejection and potential reporting.
+>
+> **Code of Conduct**: Respect the structure, placeholders, and naming conventions outlined in this documentation.
 
 ---
 
-## **Directory Structure**
+## Directory Structure
 
 The project uses the following structure for language support:
 
@@ -20,9 +35,10 @@ The project uses the following structure for language support:
 /middleware
     languages.js
 /languages
-    en.js
-    es.js
-    lt.js
+    en.js  (English - Base language)
+    es.js  (Spanish)
+    lt.js  (Lithuanian)
+    // Add your language file here
 ```
 
 - `middleware/languages.js`: Middleware to handle language detection and loading.
@@ -30,11 +46,11 @@ The project uses the following structure for language support:
 
 ---
 
-## **Adding a New Language**
+## Adding a New Language
 
-### **Step 1: Create a New Language File**
+### Step 1: Create a New Language File
 1. Navigate to the `languages` directory.
-2. Create a new file named after the language code (e.g., `fr.js` for French).
+2. Create a new file named after the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (e.g., `fr.js` for French).
 3. Use the following template to structure the file:
 
 ```javascript
@@ -84,9 +100,10 @@ module.exports = {
 };
 ```
 
-### **Step 2: Translate the Content**
+### Step 2: Translate the Content
 - Replace the English text with the translated text for the new language.
 - **Do not change placeholders, team names, or user names** (e.g., `RejectModders`, `Disutils Team`).
+- Refer to the base language file (`en.js`) to ensure you've included all necessary sections and keys.
 
 Example:
 ```javascript
@@ -105,7 +122,7 @@ nav: {
 
 ---
 
-## **Updating the Middleware**
+## Updating the Middleware
 
 1. Open `middleware/languages.js`.
 2. Add the new language code to the `require` statements and the `languages` object.
@@ -119,25 +136,91 @@ const fr = require('../languages/fr'); // Add this line
 
 const languages = { en, es, lt, fr }; // Add `fr` here
 ```
----
-
-## **Best Practices**
-
-- **Consistency**: Follow the structure and naming conventions in `en.js`.
-- **Placeholders**: Do not modify placeholders like `{seconds}`, `{minutes}`, or `{time}`.
-- **Team/User Names**: Do not translate names like `RejectModders` or `Disutils Team`.
-- **HTML Tags**: Ensure HTML tags (e.g., `<a>`, `<strong>`) remain intact.
-- **File Integrity**: Ensure the file is free of malicious or inappropriate content.
 
 ---
 
-> [!WARNING]
-> **Fake or Malicious Files**: Submitting fake or harmful files is strictly prohibited. All pull requests are scanned for malicious content, and violations will result in immediate rejection and potential reporting.<br>
-> **Translation Accuracy**: Ensure translations are accurate and contextually appropriate. Poor-quality translations may be rejected.
+## Translation Guidelines
+
+### DO's
+- ✅ Maintain the exact same object structure as the base language file (`en.js`)
+- ✅ Keep all keys the same as in the original file
+- ✅ Preserve all placeholders like `{seconds}`, `{minutes}`, `{time}`, etc.
+- ✅ Maintain HTML tags (e.g., `<a>`, `<strong>`) in their original position
+- ✅ Use appropriate cultural and linguistic adaptations where necessary
+- ✅ Follow proper grammar, punctuation, and capitalization rules of the target language
+
+### DON'Ts
+- ❌ Translate team names, product names, or brand names (e.g., "Disutils Team", "RejectModders")
+- ❌ Add, remove, or rename object keys
+- ❌ Remove, modify, or reposition placeholders
+- ❌ Translate variable names or code comments
+- ❌ Use machine translation without proper review and editing
+- ❌ Add jokes, political statements, or inappropriate content
 
 ---
 
-## **Example Language File: French (`fr.js`)**
+## Common Errors and Solutions
+
+### 1. Missing Keys Error
+**Error:** `TypeError: Cannot read property 'X' of undefined`
+**Cause:** Missing translation keys or sections in your language file.
+**Solution:** Compare your file with `en.js` to ensure all sections and keys are present.
+
+### 2. Placeholder Errors
+**Error:** Website displays `undefined` or broken text where dynamic content should appear.
+**Cause:** Placeholders like `{seconds}` were removed or modified.
+**Solution:** Ensure all placeholders from the original file are maintained in the same format.
+
+### 3. JavaScript Syntax Errors
+**Error:** `SyntaxError: Unexpected token`
+**Cause:** Missing commas, quotes, or brackets in your JavaScript file.
+**Solution:** Use a JavaScript linter or editor with syntax highlighting to check for syntax errors.
+
+### 4. Encoding Issues
+**Error:** Strange characters appear in the website text.
+**Cause:** File was not saved with UTF-8 encoding.
+**Solution:** Ensure your file is saved with UTF-8 encoding to support all characters.
+
+### 5. Middleware Not Loading
+**Error:** New language option doesn't appear in the website.
+**Cause:** The middleware wasn't properly updated to include the new language.
+**Solution:** Follow the "Updating the Middleware" section to properly register your language.
+
+---
+
+## Pull Request Guidelines
+
+Before submitting a Pull Request (PR) with your new language integration, please ensure:
+
+1. **Complete Translation**
+   - Your file includes translations for ALL sections and keys in the base language file
+   - No placeholder content or temporary translations remain
+
+2. **Testing**
+   - You have locally tested the language integration (if possible)
+   - All placeholders and dynamic content render correctly
+
+3. **PR Description**
+   - Include the language name and code in the PR title (e.g., "Add French (fr) Translation")
+   - Mention your fluency level in the language
+   - Note any specific cultural adaptations you made
+
+4. **Self-Review Checklist**
+   - [ ] My translation follows the structure of the base language file
+   - [ ] All placeholders and HTML tags are preserved
+   - [ ] Team names and product names are not translated
+   - [ ] The file uses proper indentation and formatting
+   - [ ] I have updated the middleware file correctly
+   - [ ] My file includes the appropriate documentation header
+
+5. **Responsiveness**
+   - Be prepared to respond to review comments and make requested changes
+
+PRs that do not meet these guidelines may be delayed or rejected. We appreciate your contribution and want to ensure the quality and consistency of the project.
+
+---
+
+## Example Language File: French (`fr.js`)
 
 ```javascript
 /**
@@ -178,4 +261,22 @@ module.exports = {
 
 ---
 
-By adhering to this guide, you can contribute new languages to the Disutils Team website while maintaining high standards of quality and functionality.
+## Code of Conduct
+
+> [!WARNING]
+> **Fake or Malicious Files**: Submitting fake or harmful files is strictly prohibited. All pull requests are scanned for malicious content, and violations will result in immediate rejection and potential reporting.
+>
+> **Translation Accuracy**: Ensure translations are accurate and contextually appropriate. Poor-quality translations may be rejected.
+
+By contributing to this project, you agree to:
+1. Provide high-quality, accurate translations
+2. Respect the structure and guidelines outlined in this documentation
+3. Respond to feedback and make necessary adjustments
+4. Avoid inserting political, offensive, or divisive content
+5. Help maintain and update your language file as the project evolves
+
+---
+
+Thank you for your interest in contributing to the Disutils Team website language integration. Your contribution helps make our tools and resources accessible to a wider audience.
+
+For any questions or assistance, please contact a team member through our Discord server or open an issue on GitHub.
