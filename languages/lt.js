@@ -411,6 +411,12 @@ module.exports = {
         clickme: "^^ Paspausk čia ^^"
     },
 
+    maintenance: {
+        title: "Gryšime netrukus!",
+        globalmaintenance: "Visoje svetainėje šiuo metu atliekama planuota priežiūra, siekianti pagerinti jūsų patirtį.  Dėkojame už kantrybę ir kviečiame netrukus sugrįžti.",
+        pagemaintenance: "Šis puslapis laikinai nepasiekiamas dėl planuotos priežiūros.  Stengiamės kuo greičiau atkurti prieigą.  Dėkojame už supratingumą.",
+    },
+
     errors: {
         badrequest: "Blogas prašymas!",
         unauthorized: "Neteisėta prieiga!",
