@@ -7,7 +7,7 @@
  * Language Code: en
  * Author: RejectModders
  * Discord: rejectmodders
- * Last Updated: 4/11/2025
+ * Last Updated: 4/21/2025
  *
  * Usage:
  * - This file is automatically loaded by the language middleware.
