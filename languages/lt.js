@@ -16,7 +16,7 @@
  *
  * Guidelines:
  * - Placeholders (e.g., {seconds}, {minutes}) must remain intact.
- * - Team names, user names, and specific terms (e.g., "RejectModders", "Disutils Team") must not be translated.
+ * - Team names, usernames, and specific terms (e.g., "RejectModders", "Disutils Team") must not be translated.
  * - Use consistent formatting and indentation for readability.
  *
  * Note: If adding new keys, ensure they are added to all other language files for consistency.
@@ -25,7 +25,7 @@
 module.exports = {
     config: {
         description: "Speciali grupė asmenų, įsipareigojusių pagerinti ir supaprastinti „Discord“ patirtį visiems vartotojams.",
-            footer: "Autorių teisės © Disutils Team 24-25.  Visos teisės saugomos."
+        footer: "Autorių teisės © Disutils Team 24-25.  Visos teisės saugomos."
     },
 
     nav: {
