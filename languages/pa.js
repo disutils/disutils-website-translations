@@ -1,4 +1,28 @@
-const languages = {
+/**
+ * Punjabi Translation File for Disutils Team Website
+ *
+ * This file contains all the Punjabi translations for the Disutils Team website.
+ * It includes text for navigation, footer, pages, and other UI elements.
+ *
+ * Language Code: pa
+ * Author: Metolix
+ * Discord: metolix
+ * Last Updated: 5/7/2025
+ *
+ * Usage:
+ * - This file is automatically loaded by the language middleware.
+ * - Ensure all keys match the structure defined in the base language file (e.g., `en.js`).
+ * - Do not remove or rename keys, as this may break functionality.
+ *
+ * Guidelines:
+ * - Placeholders (e.g., {seconds}, {minutes}) must remain intact.
+ * - Team names, usernames, and specific terms (e.g., "RejectModders", "Disutils Team") must not be translated.
+ * - Use consistent formatting and indentation for readability.
+ *
+ * Note: If adding new keys, ensure they are added to all other language files for consistency.
+ */
+
+module.exports = {
     pu: {
         config: {
             description: "ਇੱਕ ਸਮਰਪਿਤ ਸਮੂਹ ਜੋ ਸਾਰੇ ਵਰਤੋਂਕਾਰਾਂ ਲਈ Discord ਅਨੁਭਵ ਨੂੰ ਸੁਧਾਰਨ ਅਤੇ ਆਸਾਨ ਬਣਾਉਣ ਲਈ ਵਚਨਬੱਧ ਹੈ।",
