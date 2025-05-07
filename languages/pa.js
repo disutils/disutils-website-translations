@@ -424,5 +424,4 @@ module.exports = {
         searchtext: "ਤੁਸੀਂ ਕੀ ਲੱਭ ਰਹੇ ਹੋ?",
         searchkeyword: "ਕੀਵਰਡ ਲਿਖੋ..."
     }
-    }
 }
