@@ -2,8 +2,9 @@ const en = require('../languages/en');
 const es = require('../languages/es');
 const lt = require('../languages/lt');
 const pa = require('../languages/pa');
+const fr = require('../languages/fr');
 
-const languages = { en, es, lt, pa };
+const languages = { en, es, lt, pa, fr};
 
 const languageMiddleware = (req, res, next) => {
     const supportedLanguages = Object.keys(languages);
