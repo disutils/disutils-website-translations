@@ -36,7 +36,7 @@ module.exports = {
         partners: "Nos partenaires",
         bots: "Nos Bots",
         contact: "Nous contacter",
-        more: "Plus...",
+        more: "Plus",
         login: "Se connecter",
     },
 
@@ -216,7 +216,7 @@ module.exports = {
         latency: "Latence Discord (ms)",
         dblatency: "Latence DB (ms)"
     },
-    
+
     contact: {
         title: "Contactez-nous",
         description: "N'hésitez pas à nous contacter via les options ci-dessous. Notre équipe dédiée répondra rapidement à vos questions.",
