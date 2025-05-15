@@ -86,7 +86,7 @@ module.exports = {
     },
 
     home: {
-        meet: "Nous voir",
+        meet: "Rencontrez la",
         supportserver: "Serveur de support",
         custombots: "Bots personalisés",
         showcase: "Bots présentés",
