@@ -7,7 +7,7 @@
  * Language Code: pa
  * Author: Metolix
  * Discord: metolix
- * Last Updated: 5/7/2025
+ * Last Updated: 5/24/2025
  *
  * Usage:
  * - This file is automatically loaded by the language middleware.
@@ -37,7 +37,7 @@ module.exports = {
         bots: "ਸਾਡੇ ਬੋਟ",
         contact: "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
         more: "ਹੋਰ",
-        login: "Discord ਨਾਲ ਲੌਗਇਨ ਕਰੋ",
+        login: "ਲੌਗਇਨ",
     },
 
     navsub: {
@@ -74,6 +74,9 @@ module.exports = {
         blacklistappeal: "ਬਲੈਕਲਿਸਟ ਅਪੀਲ",
         terms: "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ",
         privacy: "ਪਰਦੇਦਾਰੀ ਨੀਤੀ",
+
+        // Languages
+        languages: "ਭਾਸ਼ਾਵਾਂ"
     },
 
     footer: {
@@ -103,17 +106,17 @@ module.exports = {
 
         title1: "ਨਵੀਂ UI ਅਪਡੇਟ",
         description1: "ਵੈਬਸਾਈਟ ਦੀ UI ਨੂੰ ਨਵੇਂ ਡਿਜ਼ਾਈਨ ਵਿੱਚ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਅਸੀਂ ਆਸ ਕਰਦੇ ਹਾਂ ਕਿ ਤੁਹਾਨੂੰ ਇਹ ਪਸੰਦ ਆਵੇਗੀ!<br><br>ਅਸੀਂ Disutils ਟੀਮ ਲਈ ਵੀ ਇੱਕ ਡੈਸ਼ਬੋਰਡ ਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ, ਜੋ ਜਲਦੀ ਜਾਰੀ ਕੀਤਾ ਜਾਣ ਵਾਲਾ ਹੈ। ਹੋਰ ਅਪਡੇਟਾਂ ਲਈ ਸਾਥੇ ਰਹੋ!",
-        author1: "RejectModders ਮਾਲਕ/ਡਿਵੈਲਪਰ @Disutils ਟੀਮ",
+        author1: "RejectModders Owner/Developer @Disutils Team",
         date1: "1/4/2025",
 
         title2: "ਅਨੁਵਾਦ ਟੀਮ ਭਰਤੀ",
         description2: "ਅਸੀਂ ਅਨੁਵਾਦ ਟੀਮ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਣ ਲਈ ਸਮਰਪਿਤ ਵਿਅਕਤੀਆਂ ਦੀ ਖੋਜ ਕਰ ਰਹੇ ਹਾਂ। Disutils ਵੈਬਸਾਈਟ ’ਤੇ ਅਨੁਵਾਦ ਟੀਮ ਲਈ ਇੱਕ ਨਿੱਜੀ ਪੇਜ਼ ਬਣਾਇਆ ਜਾਵੇਗਾ ਜਿੱਥੇ ਤੁਹਾਡੀਆਂ ਯੋਗਦਾਨਾਂ ਨੂੰ ਦਰਸਾਇਆ ਜਾਵੇਗਾ।<br><br>ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਭਾਸ਼ਾ ਵਿੱਚ ਪ੍ਰਵੀਂ ਹੋ ਅਤੇ ਅਨੁਵਾਦ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨ ਦਿਲਚਸਪੀ ਰੱਖਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ RejectModders ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",
-        author2: "RejectModders ਮਾਲਕ/ਡਿਵੈਲਪਰ @Disutils ਟੀਮ",
+        author2: "RejectModders Owner/Developer @Disutils Team",
         date2: "13/11/2024",
 
         title3: "ਵੈਬਸਾਈਟ ਜਾਰੀ!",
         description3: "ਸਤ ਸ੍ਰੀ ਅਕਾਲ ਸਾਰਿਆ ਨੂੰ! ਅਸੀਂ ਇਸ ਵੈਬਸਾਈਟ ’ਤੇ ਬਹੁਤ ਮਿਹਨਤ ਕੀਤੀ ਹੈ ਤਾਂ ਜੋ ਇਹ ਬਹੁਤ ਵਧੀਆ ਲੱਗੇ। ਅਸੀਂ ਆਸ ਕਰਦੇ ਹਾਂ ਕਿ ਤੁਹਾਨੂੰ ਇਹ ਪਸੰਦ ਆਏਗੀ। ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਨੂੰ ਦੇਖਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਸੂਚਿਤ ਕਰੋ!",
-        author3: "RejectModders ਮਾਲਕ/ਡਿਵੈਲਪਰ @Disutils ਟੀਮ",
+        author3: "RejectModders Owner/Developer @Disutils Team",
         date3: "31/10/2024"
     },
 
@@ -154,31 +157,33 @@ module.exports = {
     team: {
         title: "ਸਾਡੀ ਟੀਮ",
 
-        leaddev: "ਲੀਡ ਡਿਵੈਲਪਰ",
-        backenddev: "ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ",
-        webdev: "ਵੈਬ ਡਿਵੈਲਪਰ",
-        juniordev: "ਜੂਨੀਅਰ ਡਿਵੈਲਪਰ",
-        sysadmin: "ਸਿਸਟਮ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ",
-        operationsmanager: "ਓਪਰੇਸ਼ਨਜ਼ ਮੈਨੇਜਰ",
-        hrmanager: "HR ਮੈਨੇਜਰ",
-        manager: "ਮੈਨੇਜਰ",
-        administrator: "ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ",
-        leadmoderator: "ਲੀਡ ਮੋਡਰੇਟਰ",
-        moderator: "ਮੋਡਰੇਟਰ",
+        leadBotDev: "ਲੀਡ ਬੋਟ ਡਿਵੈਲਪਰ",
+        leadBackendDev: "ਲੀਡ ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ",
+        leadWebDev: "ਲੀਡ ਵੈੱਬ ਡਿਵੈਲਪਰ",
+        juniorBotDev: "ਜੂਨੀਅਰ ਬੋਟ ਡਿਵੈਲਪਰ",
+        juniorBackendDev: "ਜੂਨੀਅਰ ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ",
+        juniorWebDev: "ਜੂਨੀਅਰ ਵੈੱਬ ਡਿਵੈਲਪਰ",
+        sysAdmins: "ਸਿਸਟਮ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ",
+        opsManagers: "ਓਪਰੇਸ਼ਨ ਮੈਨੇਜਰ",
+        managers: "ਮੈਨੇਜਰ",
+        admins: "ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ",
+        leadMods: "ਲੀਡ ਮੋਡਰੇਟਰ",
+        mods: "ਮੋਡਰੇਟਰ",
 
-        hiring: "ਹਾਇਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ!",
+        hiring: "ਹਾਇਰਿੰਗ!",
 
-        hiringdev: "ਕੋਈ ਲੀਡ ਡਿਵੈਲਪਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringbackenddev: "ਕੋਈ ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringwebdev: "ਕੋਈ ਵੈਬ ਡਿਵੈਲਪਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringjuniordev: "ਕੋਈ ਜੂਨੀਅਰ ਡਿਵੈਲਪਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringsysadmin: "ਕੋਈ ਸਿਸਟਮ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringoperationsmanager: "ਕੋਈ ਓਪਰੇਸ਼ਨਜ਼ ਮੈਨੇਜਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringhrmanager: "ਕੋਈ HR ਮੈਨੇਜਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringmanager: "ਕੋਈ ਮੈਨੇਜਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringadministrators: "ਕੋਈ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringleadmoderators: "ਕੋਈ ਲੀਡ ਮੋਡਰੇਟਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
-        hiringmoderators: "ਕੋਈ ਮੋਡਰੇਟਰ ਮੌਜੂਦ ਨਹੀਂ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringleadbot: "ਹੁਣੇ ਕੋਈ ਲੀਡ ਬੋਟ ਡਿਵੈਲਪਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringleadbackend: "ਹੁਣੇ ਕੋਈ ਲੀਡ ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringleadweb: "ਹੁਣੇ ਕੋਈ ਲੀਡ ਵੈੱਬ ਡਿਵੈਲਪਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringjuniorbot: "ਹੁਣੇ ਕੋਈ ਜੂਨੀਅਰ ਬੋਟ ਡਿਵੈਲਪਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringjuniorbackend: "ਹੁਣੇ ਕੋਈ ਜੂਨੀਅਰ ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringjuniorweb: "ਹੁਣੇ ਕੋਈ ਜੂਨੀਅਰ ਵੈੱਬ ਡਿਵੈਲਪਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringsysadmins: "ਹੁਣੇ ਕੋਈ ਸਿਸਟਮ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringopsmanagers: "ਹੁਣੇ ਕੋਈ ਓਪਰੇਸ਼ਨ ਮੈਨੇਜਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringmanagers: "ਹੁਣੇ ਕੋਈ ਮੈਨੇਜਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringadmins: "ਹੁਣੇ ਕੋਈ ਐਡਮਿਨਿਸਟ੍ਰੇਟਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringleadmods: "ਹੁਣੇ ਕੋਈ ਲੀਡ ਮੋਡਰੇਟਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>",
+        hiringmods: "ਹੁਣੇ ਕੋਈ ਮੋਡਰੇਟਰ ਨਹੀਂ ਹਨ। <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">ਇੱਥੇ ਅਰਜ਼ੀ ਦਿਓ!</a>"
     },
 
     partners: {
@@ -209,6 +214,7 @@ module.exports = {
         offline: "ਆਫਲਾਈਨ",
         secondsago: "ਸੈਕਿੰਡ ਪਹਿਲਾਂ",
         minutesago: "ਮਿਨਟ ਪਹਿਲਾਂ",
+        refreshtime: "ਹਰ {time} ਮਿੰਟਾਂ ਵਿੱਚ ਤਾਜ਼ਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ",
         latency: "Discord ਲੈਟੈਂਸੀ (ms)",
         dblatency: "DB ਲੈਟੈਂਸੀ (ms)"
     },
@@ -324,7 +330,7 @@ module.exports = {
         }
     },
 
-        privacy: {
+    privacy: {
         title: "ਪਰਦੇਦਾਰੀ ਨੀਤੀ",
         description: "Disutils ਟੀਮ, ਅਸੀਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਰੱਖਿਆ ਲਈ ਵਚਨਬੱਧ ਹਾਂ। ਇਹ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਦਰਸਾਉਂਦੀ ਹੈ ਕਿ ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਕਿਵੇਂ ਇਕੱਤਰ, ਵਰਤੋਂ ਅਤੇ ਸੁਰੱਖਿਅਤ ਕਰਦੇ ਹਾਂ। ਇਸ ਦਸਤਾਵੇਜ਼ ਵਿੱਚ “ਸਾਡੇ ਬੋਟ” ਉਹ ਬੋਟ ਹਨ ਜੋ Disutils ਟੀਮ ਵੱਲੋਂ ਵਿਕਸਿਤ ਕੀਤੇ ਗਏ ਹਨ।",
         generalprov: "ਆਮ ਪ੍ਰਵਿਧਾਨ",
@@ -402,6 +408,12 @@ module.exports = {
 
     song: {
         clickme: "^^ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ ^^"
+    },
+
+    maintenance: {
+        title: "ਅਸੀਂ ਜਲਦੀ ਵਾਪਸ ਆਵਾਂਗੇ!",
+        globalmaintenance: "ਸਾਡੀ ਪੂਰੀ ਵੈਬਸਾਈਟ ਤੁਹਾਡੇ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਨਿਰਧਾਰਿਤ ਰਖਰਖਾਅ ਵਿੱਚ ਹੈ। ਅਸੀਂ ਤੁਹਾਡੀ ਧੀਰਜ ਦੀ ਕਦਰ ਕਰਦੇ ਹਾਂ ਅਤੇ ਤੁਹਾਨੂੰ ਜਲਦੀ ਵਾਪਸ ਆਉਣ ਦਾ ਨਿਮੰਤਰਣ ਦਿੰਦੇ ਹਾਂ।",
+        pagemaintenance: "ਇਹ ਪੰਨਾ ਨਿਰਧਾਰਿਤ ਰਖਰਖਾਅ ਕਾਰਨ ਅਸਥਾਈ ਤੌਰ 'ਤੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਅਸੀਂ ਜਲਦੀ ਪਹੁੰਚ ਬਹਾਲ ਕਰਨ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ। ਤੁਹਾਡੀ ਸਮਝ ਲਈ ਧੰਨਵਾਦ।",
     },
 
     errors: {
