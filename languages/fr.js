@@ -7,7 +7,7 @@
  * Language Code: fr
  * Author: NytrixFM
  * Discord: nytrixfm
- * Last Updated: 05/14/2025
+ * Last Updated: 5/24/2025
  *
  * Usage:
  * - This file is automatically loaded by the language middleware.
@@ -155,33 +155,35 @@ module.exports = {
     },
 
     team: {
-        title: "Notre équipe",
+        title: "Notre Équipe",
 
-        leaddev: "Développeurs principaux",
-        backenddev: "Développeurs backend",
-        webdev: "Développeurs web",
-        juniordev: "Développeurs junior",
-        sysadmin: "Administrateurs système",
-        operationsmanager: "Responsables des opérations",
-        hrmanager: "Responsables RH",
-        manager: "Responsables",
-        administrator: "Administrateurs",
-        leadmoderator: "Modérateurs principaux",
-        moderator: "Modérateurs",
+        leadBotDev: "Développeurs Principaux de Bots",
+        leadBackendDev: "Développeurs Principaux Backend",
+        leadWebDev: "Développeurs Principaux Web",
+        juniorBotDev: "Développeurs Juniors de Bots",
+        juniorBackendDev: "Développeurs Juniors Backend",
+        juniorWebDev: "Développeurs Juniors Web",
+        sysAdmins: "Administrateurs Système",
+        opsManagers: "Responsables des Opérations",
+        managers: "Responsables",
+        admins: "Administrateurs",
+        leadMods: "Modérateurs Principaux",
+        mods: "Modérateurs",
 
         hiring: "Nous recrutons !",
 
-        hiringdev: "Aucun développeur principal pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringbackenddev: "Aucun développeur backend pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringwebdev: "Aucun développeur web pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringjuniordev: "Aucun développeur junior pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringsysadmin: "Aucun administrateur système pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringoperationsmanager: "Aucun responsable des opérations pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringhrmanager: "Aucun responsable RH pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringmanager: "Aucun responsable pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringadministrators: "Aucun administrateur pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringleadmoderators: "Aucun modérateur principal pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
-        hiringmoderators: "Aucun modérateur pour le moment. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringleadbot: "Aucun développeur principal de bots actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringleadbackend: "Aucun développeur principal backend actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringleadweb: "Aucun développeur principal web actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringjuniorbot: "Aucun développeur junior de bots actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringjuniorbackend: "Aucun développeur junior backend actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringjuniorweb: "Aucun développeur junior web actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringsysadmins: "Aucun administrateur système actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringopsmanagers: "Aucun responsable des opérations actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringmanagers: "Aucun responsable actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringadmins: "Aucun administrateur actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringleadmods: "Aucun modérateur principal actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>",
+        hiringmods: "Aucun modérateur actuellement. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Postulez ici !</a>"
     },
 
     partners: {
