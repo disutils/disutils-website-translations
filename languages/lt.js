@@ -7,7 +7,7 @@
  * Language Code: lt
  * Author: nextrin
  * Discord: nextrin
- * Last Updated: 4/21/2025
+ * Last Updated: 5/24/2025
  *
  * Usage:
  * - This file is automatically loaded by the language middleware.
@@ -155,33 +155,35 @@ module.exports = {
     },
 
     team: {
-        title: "Mūsų komanda",
+        title: "Mūsų Komanda",
 
-        leaddev: "Pagrindiniai kūrėjai",
-        backenddev: "'Backend' kūrėjai",
-        webdev: "Svetainės kūrėjai",
-        juniordev: "Jaunesnieji kūrėjai",
-        sysadmin: "Sistemos administratoriai",
-        operationsmanager: "Operacijų vadovai",
-        hrmanager: "Personalo vadovai",
-        manager: "Vadovai",
-        administrator: "Administratoriai",
-        leadmoderator: "Pagrindiniai moderatoriai",
-        moderator: "Moderatoriai",
+        leadBotDev: "Pagrindiniai botų kūrėjai",
+        leadBackendDev: "Pagrindiniai Backend kūrėjai",
+        leadWebDev: "Pagrindiniai svetainės kūrėjai",
+        juniorBotDev: "Jaunesnieji botų kūrėjai",
+        juniorBackendDev: "Jaunesnieji Backend kūrėjai",
+        juniorWebDev: "Jaunesnieji svetainės kūrėjai",
+        sysAdmins: "Sistemos administratoriai",
+        opsManagers: "Operacijų vadovai",
+        managers: "Vadovai",
+        admins: "Administratoriai",
+        leadMods: "Pagrindiniai moderatoriai",
+        mods: "Moderatoriai",
 
         hiring: "Samdome!",
 
-        hiringdev: "Šiuo metu nėra pagrindinių kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringbackenddev: "Šiuo metu nėra Backend kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringwebdev: "Šiuo metu nėra žiniatinklio kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringjuniordev: "Šiuo metu jaunesniųjų kūrėjų nėra. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringsysadmin: "Šiuo metu nėra sistemos administratorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringoperationsmanager: "Šiuo metu nėra operacijų vadovų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringhrmanager: "Šiuo metu personalo vadovų nėra. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringmanager: "Šiuo metu nėra vadovų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringadministrators: "Šiuo metu nėra administratorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringleadmoderators: "Šiuo metu nėra pagrindinio moderatoriaus. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
-        hiringmoderators: "Moderatorių šiuo metu nėra. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringleadbot: "Šiuo metu nėra pagrindinių botų kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringleadbackend: "Šiuo metu nėra pagrindinių Backend kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringleadweb: "Šiuo metu nėra pagrindinių svetainės kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringjuniorbot: "Šiuo metu nėra jaunesniųjų botų kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringjuniorbackend: "Šiuo metu nėra jaunesniųjų Backend kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringjuniorweb: "Šiuo metu nėra jaunesniųjų svetainės kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringsysadmins: "Šiuo metu nėra sistemos administratorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringopsmanagers: "Šiuo metu nėra operacijų vadovų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringmanagers: "Šiuo metu nėra vadovų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringadmins: "Šiuo metu nėra administratorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringleadmods: "Šiuo metu nėra pagrindinių moderatorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
+        hiringmods: "Šiuo metu nėra moderatorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>",
     },
 
     partners: {
