@@ -7,7 +7,7 @@
  * Language Code: es
  * Author: Alex
  * Discord: alex_gallego2005
- * Last Updated: 4/21/2025
+ * Last Updated: 5/24/2025
  *
  * Usage:
  * - This file is automatically loaded by the language middleware.
@@ -155,33 +155,35 @@ module.exports = {
     },
 
     team: {
-        title: "Nuestro equipo",
+        title: "Nuestro Equipo",
 
-        leaddev: "Desarrolladores principales",
-        backenddev: "Desarrolladores de backend",
-        webdev: "Desarrolladores web",
-        juniordev: "Desarrolladores junior",
-        sysadmin: "Administradores de sistemas",
-        operationsmanager: "Directores de operaciones",
-        hrmanager: "Directores de RRHH",
-        manager: "Gerentes",
-        administrator: "Administratores",
-        leadmoderator: "Moderadores principales",
-        moderator: "Moderadores",
+        leadBotDev: "Desarrolladores Principales de Bots",
+        leadBackendDev: "Desarrolladores Principales de Backend",
+        leadWebDev: "Desarrolladores Principales Web",
+        juniorBotDev: "Desarrolladores Junior de Bots",
+        juniorBackendDev: "Desarrolladores Junior de Backend",
+        juniorWebDev: "Desarrolladores Junior Web",
+        sysAdmins: "Administradores de Sistemas",
+        opsManagers: "Directores de Operaciones",
+        managers: "Gerentes",
+        admins: "Administradores",
+        leadMods: "Moderadores Principales",
+        mods: "Moderadores",
 
         hiring: "¡Contratando!",
 
-        hiringdev: "Actualmente sin desarroladores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringbackenddev: "Actualmente sin desarroladores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringwebdev: "Actualmente sin desarroladores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringjuniordev: "Actualmente sin desarroladores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringsysadmin: "Actualmente sin administradores de sistemas. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringoperationsmanager: "Actualmente sin directores de operaciones. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringhrmanager: "Actualmente sin directores de RRHH. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringmanager: "Actualmente sin gerentes. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringadministrators: "Actualmente sin administradores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringleadmoderators: "Actualmente sin moderadores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
-        hiringmoderators: "Actualmente sin moderadores. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringleadbot: "No hay Desarrolladores Principales de Bots actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringleadbackend: "No hay Desarrolladores Principales de Backend actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringleadweb: "No hay Desarrolladores Principales Web actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringjuniorbot: "No hay Desarrolladores Junior de Bots actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringjuniorbackend: "No hay Desarrolladores Junior de Backend actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringjuniorweb: "No hay Desarrolladores Junior Web actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringsysadmins: "No hay Administradores de Sistemas actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringopsmanagers: "No hay Directores de Operaciones actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringmanagers: "No hay Gerentes actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringadmins: "No hay Administradores actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringleadmods: "No hay Moderadores Principales actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>",
+        hiringmods: "No hay Moderadores actualmente. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">¡Únete aquí!</a>"
     },
 
     partners: {
