@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "config": {
+      "description": "A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users.",
+      "footer": "Copyright © Disutils Team 24-25. All rights reserved."
+    },
+    "footer": {
+      "brief": "Enhancing your server experience with top-notch bots and utilities.",
+      "topgg": "Vote on Top.gg",
+      "discollaborg": "Vote on Discollab.org"
+    }
+  },
+
+  "navigation": {
+    "primary": {
+      "home": "Home",
+      "news": "News",
+      "faq": "FAQ",
+      "team": "Our Team",
+      "partners": "Our Partners",
+      "bots": "Our Bots",
+      "contact": "Contact Us",
+      "more": "More",
+      "login": "Login"
+    },
+    "secondary": {
+      "mainpages": "Main Pages",
+      "statuspages": "Status Pages",
+      "support": "Support",
+      "community": "Community",
+      "voting": "Voting",
+      "otherpages": "Other Pages",
+      "changelogs": "Changelogs",
+      "documentation": "Documentation",
+      "prices": "Prices",
+      "botstatus": "Bot Status",
+      "overallstatus": "Overall Status",
+      "supportserver": "Support Server",
+      "emailus": "Email Us",
+      "discordserver": "Discord Server",
+      "applyforstaff": "Apply for Staff",
+      "applyforpartner": "Apply for Partner",
+      "topgg": "Top.gg",
+      "discollaborg": "Discollab.org",
+      "blacklistappeal": "Blacklist Appeal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "languages": "Languages"
+    }
+  },
+
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Home",
+        "description": "Disutils Team - Enhancing and simplifying your Discord experience with quality bots and utilities.",
+        "meet": "Meet",
+        "trusted": "Trusted by over 1,000+ guilds"
+      },
+      "actions": {
+        "supportserver": "Support Server",
+        "custombots": "Custom Bots",
+        "learnmore": "Learn more"
+      },
+      "showcase": {
+        "title": "Showcased Bots",
+        "subtitle": "Our Selection of Showcased Bots",
+        "description": "Our selection of showcased bots, handpicked for their exceptional performance and reliability.",
+        "bots": {
+          "harmodify": {
+            "description": "Harmodify is a powerful music bot with seamless playback and high-quality sound. Ideal for gaming sessions or hangouts."
+          },
+          "playdis": {
+            "description": "Playdis is a fun-packed game bot with engaging games and a built-in economy system. Ideal for friendly competition and rewards."
+          },
+          "utilicore": {
+            "description": "UtiliCore is an all-in-one utility bot with features like stunning embeds and real-time notifications. Ideal for optimizing server management."
+          },
+          "privateeyes": {
+            "description": "PrivateEyes is a versatile NSFW bot with features for mature communities and SFW content. Ideal for fun and relaxed servers."
+          }
+        }
+      },
+      "projects": {
+        "tag": "Planning",
+        "title": "Enhancing and Simplifying Your Discord Experience",
+        "bots": {
+          "title": "Custom Discord Bot Development",
+          "description": "A dedicated group of individuals committed to creating custom Discord bots that enhance your server's functionality and user experience.",
+          "features": {
+            "1": "Tailored bot solutions for your specific needs",
+            "2": "Simplified Discord setup and configuration",
+            "3": "Dedicated team committed to your success"
+          },
+          "cta": "Our Bots"
+        },
+        "support": {
+          "title": "Professional Support Server",
+          "description": "Our dedicated support server provides comprehensive assistance and guidance to help you get the most out of your Discord experience.",
+          "features": {
+            "1": "Expert guidance and troubleshooting assistance",
+            "2": "Community-focused support environment",
+            "3": "Simplifying Discord for users of all levels"
+          },
+          "cta": "Contact Us"
+        }
+      },
+      "numbers": {
+        "tag": "Why Choose us",
+        "title": "Our solutions, your success",
+        "stats": {
+          "uptime": {
+            "label": "Global Uptime",
+            "value": "99.9%",
+            "link": "Check now"
+          },
+          "guilds": {
+            "label": "Trusted by many guilds",
+            "value": "1.2k+",
+            "link": "View Statistics"
+          },
+          "users": {
+            "label": "Trusted by many users",
+            "value": "120k+",
+            "link": "View Statistics"
+          },
+          "projects": {
+            "label": "Projects completed",
+            "value": "2+",
+            "link": "View projects"
+          }
+        }
+      }
+    },
+
+    "news": {
+      "meta": {
+        "title": "News",
+        "description": "Get important information about our services and our team, including our website!"
+      },
+      "articles": {
+        "ui_update": {
+          "title": "New UI Update",
+          "description": "Website UI has been updated to a new design. We hope you like it!<br><br>We are also working on a Dashboard for the Disutils Team, which will be released soon. Stay tuned for more updates!",
+          "author": "RejectModders Owner/Developer @Disutils Team",
+          "date": "4/1/2025"
+        },
+        "translation_recruitment": {
+          "title": "Translation Team Recruitment",
+          "description": "We are looking for dedicated individuals to join our Translation Team. A personal page for the Translation Team will be created on the Disutils website to showcase your contributions.<br><br>If you are proficient in a language and interested in helping with translations, please contact RejectModders.",
+          "author": "RejectModders Owner/Developer @Disutils Team",
+          "date": "11/13/2024"
+        },
+        "website_launch": {
+          "title": "Website Released!",
+          "description": "Hello everyone! We have worked really hard on this website to make it look really good, hopefully you like it and if you see any issues, please report it to us!",
+          "author": "RejectModders Owner/Developer @Disutils Team",
+          "date": "10/31/2024"
+        }
+      }
+    },
+
+    "faq": {
+      "meta": {
+        "title": "Frequently Asked Questions",
+        "description": "Find answers to commonly asked questions about Disutils Team, our bots, and our services."
+      },
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "What is Disutils Team?",
+          "answer": "A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users."
+        },
+        {
+          "question": "How can I join the Disutils Team?",
+          "answer": "You can apply to join the Disutils Team by visiting our <a href=\"/apply-staff\" class=\"text-blue-500 underline\">application page</a>."
+        },
+        {
+          "question": "Are the bots free to use?",
+          "answer": "Yes, all our bots are free to use. However, we offer premium features for those who want to support us."
+        },
+        {
+          "question": "How do I invite a bot to my server?",
+          "answer": "Click the <a href=\"/bots\" class=\"text-blue-500 underline\">Invite Our Bots</a> link and follow the instructions."
+        },
+        {
+          "question": "Where can I find the documentation for the bots?",
+          "answer": "You can find the documentation on the <a href=\"/docs\" class=\"text-blue-500 underline\">Documentation</a> page or the <a href=\"/bots\" class=\"text-blue-500 underline\">Bots</a> page."
+        },
+        {
+          "question": "How can I get support?",
+          "answer": "Join our <a href=\"/support\" class=\"text-blue-500 underline\">Discord server</a> or email us at <a href=\"mailto:support@disutils.com\" class=\"text-blue-500 underline\">support@disutils.com</a>."
+        },
+        {
+          "question": "What should I do if I find a bug?",
+          "answer": "Use the bot's bug report command, report it on our Discord, or email us."
+        },
+        {
+          "question": "Can I contribute to the development of the bots?",
+          "answer": "Yes! See our <a href=\"https://github.com/disutils/disutils\" class=\"text-blue-500 underline\">GitHub page</a>."
+        },
+        {
+          "question": "Do you offer custom bot development?",
+          "answer": "Yes. Contact us through our <a href=\"/contact\" class=\"text-blue-500 underline\">contact page</a>."
+        },
+        {
+          "question": "How can I stay updated with the latest news?",
+          "answer": "Follow our <a href=\"/news\" class=\"text-blue-500 underline\">news page</a> or join our Discord server."
+        }
+      ]
+    },
+
+    "team": {
+      "meta": {
+        "title": "Our Team",
+        "description": "Meet the dedicated individuals behind Disutils Team who work tirelessly to enhance your Discord experience."
+      },
+      "title": "Our Team",
+      "roles": {
+        "leadership": {
+          "lead_bot_dev": {
+            "title": "Lead Bot Developers",
+            "hiring_message": "No Lead Bot Developers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "lead_backend_dev": {
+            "title": "Lead Backend Developers",
+            "hiring_message": "No Lead Backend Developers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "lead_web_dev": {
+            "title": "Lead Web Developers",
+            "hiring_message": "No Lead Web Developers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          }
+        },
+        "development": {
+          "junior_bot_dev": {
+            "title": "Junior Bot Developers",
+            "hiring_message": "No Junior Bot Developers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "junior_backend_dev": {
+            "title": "Junior Backend Developers",
+            "hiring_message": "No Junior Backend Developers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "junior_web_dev": {
+            "title": "Junior Web Developers",
+            "hiring_message": "No Junior Web Developers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          }
+        },
+        "operations": {
+          "sys_admins": {
+            "title": "System Administrators",
+            "hiring_message": "No System Administrators currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "ops_managers": {
+            "title": "Operations Managers",
+            "hiring_message": "No Operations Managers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          }
+        },
+        "management": {
+          "managers": {
+            "title": "Managers",
+            "hiring_message": "No Managers currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "admins": {
+            "title": "Administrators",
+            "hiring_message": "No Administrators currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          }
+        },
+        "moderation": {
+          "lead_mods": {
+            "title": "Lead Moderators",
+            "hiring_message": "No Lead Moderators currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          },
+          "mods": {
+            "title": "Moderators",
+            "hiring_message": "No Moderators currently. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Apply here!</a>"
+          }
+        }
+      },
+      "common": {
+        "hiring": "Hiring!"
+      }
+    },
+
+    "partners": {
+      "meta": {
+        "title": "Our Partners",
+        "description": "Discover the partnerships that help us improve and extend our services to Discord users."
+      },
+      "title": "Our Partners",
+      "actions": {
+        "read_more": "Read More",
+        "close": "Close"
+      },
+      "content": {
+        "example_partner": "This could be you!",
+        "join_us": "Join us and become a partner to enjoy exclusive benefits. ",
+        "apply_here": "Apply here!"
+      }
+    },
+
+    "bots": {
+      "meta": {
+        "title": "Our Bots",
+        "description": "Explore our collection of Discord bots designed to enhance and improve your server experience."
+      },
+      "title": "Our Bots",
+      "categories": {
+        "core_bots": "Core Bots",
+        "acquired_bots": "Acquired Bots",
+        "internal_bots": "Internal Bots",
+        "coming_soon": "Coming Soon"
+      }
+    },
+
+    "status": {
+      "meta": {
+        "title": "Bot Status",
+        "description": "Check the current operational status of all our Discord bots."
+      },
+      "title": "Bot Status",
+      "description": "Check the status of our bots!",
+      "categories": {
+        "core_bots": "Core Bots",
+        "acquired_bots": "Acquired Bots",
+        "internal_bots": "Internal Bots"
+      },
+      "states": {
+        "fetching": "Fetching...",
+        "online": "Online",
+        "offline": "Offline"
+      },
+      "time": {
+        "seconds_ago": "{seconds} seconds ago",
+        "minutes_ago": "{minutes} minutes ago",
+        "refresh_time": "Refreshes every {time} minutes"
+      },
+      "metrics": {
+        "latency": "Discord Latency (ms)",
+        "db_latency": "DB Latency (ms)"
+      }
+    },
+
+    "contact": {
+      "meta": {
+        "title": "Contact Us",
+        "description": "Get in touch with the Disutils Team for inquiries, support, or feedback on our services."
+      },
+      "title": "Contact Us",
+      "description": "Feel free to reach out to us using the options below, and our dedicated team will respond to your inquiries promptly.",
+      "form": {
+        "question_feed": "Have a question or feedback? Fill out the form below.",
+        "submit": "Send message",
+        "send_form": "Send Form",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email",
+          "subject": "Subject",
+          "message": "Your message..."
+        },
+        "states": {
+          "email_sent": "Email sent successfully!",
+          "email_failed": "Failed to send email.",
+          "sending": "Sending..."
+        }
+      },
+      "alternatives": {
+        "email_message": "Or drop us a message via <a class=\"uc-link\" href=\"mailto:support@disutils.com\">email</a>.",
+        "other_support": "Other ways to reach us",
+        "priority_support": "Get priority support.",
+        "community": "Our Community",
+        "connect": "Connect with users.",
+        "discord": "Join us now!"
+      }
+    },
+
+    "appeal": {
+      "meta": {
+        "title": "Blacklist Appeal",
+        "description": "Submit an appeal if you believe you've been wrongly blacklisted from our services."
+      },
+      "title": "Appeal Form",
+      "description": "If you believe you have been wrongly blacklisted, please fill out the form below to appeal your case.",
+      "form": {
+        "submit": "Submit Appeal",
+        "send_form": "Send Form",
+        "fields": {
+          "username": "Enter your username",
+          "display_name": "Enter your display name",
+          "user_id": "Enter your user ID",
+          "email": "Enter your email",
+          "reason": "Explain the reason for your appeal.."
+        },
+        "states": {
+          "email_sent": "Email sent successfully!",
+          "email_failed": "Failed to send email.",
+          "sending": "Sending..."
+        }
+      },
+      "alternatives": {
+        "email_message": "Or drop us a message via <a class=\"uc-link\" href=\"mailto:support@disutils.com\">email</a>."
+      }
+    },
+
+    "prices": {
+      "meta": {
+        "title": "Pricing",
+        "description": "Explore our Discord bot development and hosting pricing options to find the perfect package for your needs."
+      },
+      "header": {
+        "tagline": "Find the ideal bot",
+        "title": "Pick your perfect Discord bot package",
+        "discord_bots": "Discord Bots",
+        "hosting": "Bot Hosting"
+      },
+      "plans": {
+        "bot_basic": {
+          "name": "Basic bot",
+          "price": "$19",
+          "period": "One-time",
+          "features": [
+            "Core bot functionality",
+            "Basic commands and responses",
+            "Up to 5 custom commands",
+            "Works in up to 3 servers",
+            "Basic email support"
+          ],
+          "cta": "Get started"
+        },
+        "bot_advanced": {
+          "name": "Advanced bot",
+          "price": "$49",
+          "period": "One-time",
+          "features": [
+            "10+ integrated systems",
+            "Advanced logging and analytics",
+            "Up to 15 custom commands",
+            "Works in up to 10 servers",
+            "Priority Discord support"
+          ],
+          "cta": "Get started"
+        },
+        "bot_premium": {
+          "name": "Premium bot",
+          "price": "$89",
+          "period": "One-time",
+          "features": [
+            "Advanced custom systems",
+            "Database integration",
+            "Unlimited custom commands",
+            "Unlimited servers",
+            "24/7 dedicated support"
+          ],
+          "cta": "Get started"
+        },
+        "hosting_basic": {
+          "name": "Basic VPS",
+          "price": "$4",
+          "period": "per month",
+          "features": [
+            "2GB RAM",
+            "0.25 vCPU Core",
+            "5GB SSD Storage",
+            "Unlimited Bandwidth",
+            "Community Support"
+          ],
+          "cta": "Get started"
+        },
+        "hosting_advanced": {
+          "name": "Database Hosting",
+          "price": "$4",
+          "period": "per month",
+          "features": [
+            "PostgreSQL Database",
+            "2GB Storage",
+            "Weekly Backup System",
+            "Unlimited Bandwidth",
+            "Community Support"
+          ],
+          "cta": "Get started"
+        },
+        "hosting_premium": {
+          "name": "Complete Package",
+          "price": "$7",
+          "period": "per month",
+          "features": [
+            "Contains Basic VPS + Database Hosting",
+            "7GB Total Storage (5GB SSD + 2GB DB)",
+            "Weekly Automated Backups",
+            "Unlimited Bandwidth",
+            "Priority Support"
+          ],
+          "cta": "Get started"
+        }
+      },
+      "faq": {
+        "title": "Frequently asked questions",
+        "subtitle": "Everything you need to know about our Discord bot development services.",
+        "questions": [
+          {
+            "question": "Do I need to host the bot myself?",
+            "answer": "No, our packages include hosting for the first month. After that, you can opt for our monthly hosting plan or self-host."
+          },
+          {
+            "question": "Can I request custom features?",
+            "answer": "Yes! Each plan allows for custom commands, and we're happy to discuss additional custom features for an additional fee."
+          },
+          {
+            "question": "How long does it take to develop my bot?",
+            "answer": "Basic bots typically take 3-5 days, Advanced bots 7-10 days, and Premium bots 14-21 days depending on complexity."
+          },
+          {
+            "question": "Do you offer ongoing support?",
+            "answer": "We provide free bug fixes for 30 days. Beyond that, we offer affordable monthly maintenance plans."
+          }
+        ],
+        "help_box": {
+          "title": "Have a different question?",
+          "text": "Reach out to us directly for answers about our Discord bot services.",
+          "cta": "Contact us"
+        }
+      }
+    },
+
+    "documentation": {
+      "meta": {
+        "title": "Documentation",
+        "description": "Comprehensive guides and documentation for all our Discord bots and services."
+      }
+    },
+
+    "changelogs": {
+      "meta": {
+        "title": "Changelogs",
+        "description": "Stay updated with the latest changes and improvements to our Discord bots."
+      }
+    }
+  },
+
+  "legal": {
+    "privacy": {
+      "meta": {
+        "title": "Privacy Policy",
+        "description": "Our commitment to protecting your privacy and how we handle your data."
+      },
+      "title": "Privacy Policy",
+      "description": "At Disutils Team, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information. Throughout this document, \"Our Bots\" refers to the bots developed by the Disutils Team.",
+      "sections": {
+        "general_provisions": {
+          "title": "General Provisions",
+          "content": {
+            "acceptance": "<strong>Acceptance of Terms:</strong> By using Our Bots, you agree to this Privacy Policy. If you do not agree with any part of this policy, please refrain from using Our Bots.",
+            "modifications": "<strong>Modifications to the Policy:</strong> We may update this Privacy Policy periodically. It is your responsibility to review this policy regularly. Continued use of Our Bots after any changes indicates your acceptance of the revised policy.",
+            "scope": "<strong>Scope of the Policy:</strong> This Privacy Policy applies to all interactions with Our Bots and does not cover any third-party services or websites that may be linked from Our Bots."
+          }
+        },
+        "data_collection": {
+          "title": "Data Collection",
+          "content": {
+            "user_data": "<strong>User Data:</strong> Our Bots collect and store user IDs and relevant messages solely for the purpose of executing their functions effectively.",
+            "feedback_data": "<strong>Feedback Data:</strong> If you provide feedback regarding Our Bots, we may collect and utilize that feedback for their ongoing improvement and development. This data may include suggestions and comments."
+          }
+        },
+        "data_usage": {
+          "title": "Data Usage",
+          "content": {
+            "command_execution": "<strong>Command Execution:</strong> User data collected by Our Bots is used exclusively for executing their commands. We do not use this data for any other purpose.",
+            "feedback_usage": "<strong>Feedback Usage:</strong> Feedback provided may be utilized to enhance the features and user experience of Our Bots. However, we do not disclose your personal information without your explicit consent."
+          }
+        },
+        "data_security": {
+          "title": "Data Security",
+          "content": {
+            "data_protection": "<strong>Data Protection:</strong> We implement reasonable measures to safeguard the data collected by Our Bots, but we cannot guarantee absolute security. We are not liable for any data breaches."
+          }
+        },
+        "data_deletion": {
+          "title": "Data Deletion",
+          "content": {
+            "data_request": "<strong>Data Request:</strong> You may request to view the data stored by Our Bots at any time by reaching out to our support team. <strong><u>Note: Data requests can only be made once every 30 days.</u></strong>",
+            "data_deletion": "<strong>Data Deletion:</strong> You may request the deletion of any data stored by Our Bots at any time by contacting our support team. <strong><u>Note: Data deletion requests can only be made once every 30 days.</u></strong>"
+          }
+        },
+        "data_disclosure": {
+          "title": "Disclosure of Data",
+          "content": {
+            "third_party": "<strong>Third-Party Services:</strong> Our Bots do not sell, share, or disclose user data to third parties. The source code of Our Bots is also kept private and is not disclosed to anyone. We may use third-party services for hosting, storage, or support, but they are bound by their own privacy policies and security measures."
+          }
+        },
+        "nsfw_content": {
+          "title": "NSFW Content",
+          "content": {
+            "explicit_content": "<strong>Explicit Content:</strong> Our Bots may provide access to explicit content intended solely for users of legal age in their jurisdiction who consent to view adult material.",
+            "user_acknowledgment": "<strong>User Acknowledgment:</strong> By utilizing Our Bots' NSFW features, you acknowledge and agree that you are accessing explicit content at your own discretion. If you are underage or uncomfortable with explicit material, please refrain from using these features."
+          }
+        }
+      },
+      "contact": "For any inquiries regarding our Privacy Policy, please contact us at <a href=\"mailto:support@disutils.com\" class=\"text-blue-400 underline hover:text-blue-600\">support@disutils.com</a>.",
+      "last_updated": "Last updated: April 1st, 2025"
+    },
+
+    "terms": {
+      "meta": {
+        "title": "Terms of Service",
+        "description": "The rules and regulations governing the use of our Discord bots and services."
+      },
+      "title": "Terms of Service",
+      "description": "At Disutils Team, we are committed to providing quality services. These Terms of Service outline the rules and regulations for using Our Bots. Throughout this document, \"Our Bots\" refers to the bots developed by the Disutils Team.",
+      "sections": {
+        "general_provisions": {
+          "title": "General Provisions",
+          "content": {
+            "acceptance": "<strong>Acceptance of Terms:</strong> By integrating Our Bots into your server, you acknowledge and accept these Terms of Service. If you do not agree with any part of these Terms, please refrain from adding Our Bots.",
+            "modifications": "<strong>Modifications to the Terms:</strong> We reserve the right to amend these Terms at any time. It is your responsibility to periodically review these Terms. Your continued use of Our Bots following any changes constitutes your acceptance of the updated Terms."
+          }
+        },
+        "user_responsibilities": {
+          "title": "User Responsibilities",
+          "content": {
+            "compliance": "<strong>Compliance:</strong> Users are required to comply with all applicable laws and regulations while using Our Bots.",
+            "conduct": "<strong>Conduct:</strong> You agree not to use Our Bots for any unlawful or prohibited activities, including but not limited to harassment, spamming, or any form of abuse."
+          }
+        },
+        "support_feedback": {
+          "title": "Support and Feedback",
+          "content": {
+            "feedback": "<strong>Feedback:</strong> We welcome your feedback and suggestions for enhancing Our Bots. By providing your insights, you grant us permission to incorporate them into ongoing improvements.",
+            "support": "<strong>Support:</strong> We will make reasonable efforts to provide technical support for Our Bots. However, we do not guarantee uninterrupted service and reserve the right to terminate Our Bots' services at any time without prior notice."
+          }
+        },
+        "termination": {
+          "title": "Termination",
+          "content": {
+            "user": "<strong>Termination by User:</strong> You may remove Our Bots from your server at any time, at your discretion.",
+            "us": "<strong>Termination by Us:</strong> We reserve the right to terminate Our Bots' services at our discretion, without notice or explanation."
+          }
+        },
+        "disclaimer": {
+          "title": "Disclaimer of Warranty",
+          "content": {
+            "no_warranty": "<strong>No Warranty:</strong> Our Bots are provided on an \"as is\" basis, without warranties or guarantees of any kind, either express or implied. We do not warrant the accuracy, reliability, or availability of Our Bots' services."
+          }
+        },
+        "liability": {
+          "title": "Limitation of Liability",
+          "content": {
+            "liability": "<strong>Liability:</strong> In no event shall the creators or affiliates of Our Bots be liable for any direct, indirect, special, or consequential damages arising from the use or inability to use Our Bots."
+          }
+        }
+      },
+      "contact": "For any inquiries regarding our Terms of Service, please contact us at <a href=\"mailto:support@disutils.com\" class=\"text-blue-400 underline hover:text-blue-600\">support@disutils.com</a>.",
+      "last_updated": "Last updated: April 1st, 2025"
+    }
+  },
+
+  "system": {
+    "coming_soon": {
+      "meta": {
+        "title": "Coming Soon",
+        "description": "This page is under construction and will be available soon."
+      },
+      "title": "Coming soon!",
+      "message": "Comeback again when we're live!",
+      "thanks": "Thank you for understanding and patience!",
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    },
+
+    "errors": {
+      "meta": {
+        "title": "Error",
+        "description": "An error has occurred while processing your request."
+      },
+      "titles": {
+        "bad_request": "Bad Request!",
+        "unauthorized": "Unauthorized Access!",
+        "forbidden": "Forbidden Zone!",
+        "not_found": "Lost in Space!",
+        "internal_server_error": "Server Meltdown!",
+        "unknown_error": "Unknown Error!"
+      },
+      "messages": {
+        "bad_request": "Bad Request! That was more confusing than a cat doing calculus. Try again, but maybe with fewer typos and more coffee.",
+        "unauthorized": "Unauthorized! Who goes there?! Only those with the sacred credentials may pass. Speak 'friend' and enter... or just log in properly.",
+        "forbidden": "Forbidden! You've stumbled into the forbidden zone. Legend says only the Chosen One may enter. Spoiler: it's not you.",
+        "not_found": "Not Found! This page has gone on vacation, left no forwarding address, and isn't answering texts. Try looking elsewhere before we file a missing page report.",
+        "internal_server_error": "Internal Server Error! The server just rage-quit. We're bribing it with snacks and compliments. Please stand by.",
+        "unknown_error": "Unknown Error! Something broke in a mysterious, dramatic way. Even our tech wizard is scratching his beard. Try again, or summon a goat for sacrifice. (Just kidding... mostly.)"
+      },
+      "actions": {
+        "home": "Go back home",
+        "search_now": "Why not try to search again? <a class=\"uc-link\" href=\"#uc-search-modal\" data-uc-toggle>Search now</a>",
+        "search_text": "What are you looking for?",
+        "search_keyword": "Type your keyword..."
+      }
+    }
+  }
+}
