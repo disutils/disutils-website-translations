@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "config": {
+      "description": "Speciali grupė asmenų, įsipareigojusių pagerinti ir supaprastinti „Discord“ patirtį visiems vartotojams.",
+      "footer": "Autorių teisės © Disutils Team 24-25.  Visos teisės saugomos."
+    },
+    "footer": {
+      "brief": "Pagerinkite savo serverio patirtį naudodami aukščiausios klasės robotus ir paslaugas.",
+      "topgg": "Balsuokite su Top.gg",
+      "discollaborg": "Balsuokite su Discollab.org"
+    }
+  },
+
+  "navigation": {
+    "primary": {
+      "home": "Pagrindinis",
+      "news": "Naujienos",
+      "faq": "Dažni klausimai",
+      "team": "Mūsų Komanda",
+      "partners": "Mūsų Partneriai",
+      "bots": "Mūsų Botai",
+      "contact": "Susisiekite su mumis",
+      "more": "Daugiau",
+      "login": "Prisijungti"
+    },
+    "secondary": {
+      "mainpages": "Pagrindiniai puslapiai",
+      "statuspages": "Būklės puslapiai",
+      "support": "Pagalba",
+      "community": "Bendruomenė",
+      "voting": "Balsavimas",
+      "otherpages": "Kiti puslapiai",
+      "changelogs": "Keitimai",
+      "documentation": "Dokumentacija",
+      "prices": "Kainos",
+      "botstatus": "Botų būklė",
+      "overallstatus": "Bendra būklė",
+      "supportserver": "Pagalbos serveris",
+      "emailus": "Susisiekite su mumis El. paštu",
+      "discordserver": "'Discord' serveris",
+      "applyforstaff": "Kreipkis dėl darbo kaip personalas",
+      "applyforpartner": "Kreipkis dėl partnerystės",
+      "topgg": "Top.gg",
+      "discollaborg": "Discollab.org",
+      "blacklistappeal": "Juodraščio apeliacija",
+      "terms": "Paslaugų teikimo sąlygos",
+      "privacy": "Privatumo politika",
+      "languages": "Kalbos"
+    }
+  },
+
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Pagrindinis",
+        "description": "Disutils Team - Pagerinti ir supaprastinti jūsų Discord patirtį su kokybiškais botais ir įrankiais.",
+        "meet": "Susipažinkite su",
+        "trusted": "Patikimas daugiau nei 1 000+ serverių"
+      },
+      "actions": {
+        "supportserver": "Pagalbos serveris",
+        "custombots": "Personalūs botai",
+        "learnmore": "Sužinokite daugiau"
+      },
+      "showcase": {
+        "title": "Demonstruoti botai",
+        "subtitle": "Mūsų demonstruotų botų pasirinkimas.",
+        "description": "Mūsų demonstruotų botų pasirinkimas, atrinktas dėl išskirtinio našumo ir patikimumo.",
+        "bots": {
+          "harmodify": {
+            "description": "Harmodify yra galingas muzikos botas su sklandžiu atkūrimu ir aukštos kokybės garsu. Idealiai tinka žaidimų sesijoms ar \"Hangout\"."
+          },
+          "playdis": {
+            "description": "Playdis yra linksmas žaidimų botas su patraukliais žaidimais ir integruota ekonomiška sistema. Idealiai tinka draugiškoms varžyboms ir apdovanojimams."
+          },
+          "utilicore": {
+            "description": "UtiliCore yra \"viskas viename\" naudingumo botas su tokiomis funkcijomis kaip stulbinantys įterpimai ir pranešimai realiuoju laiku. Idealiai tinka optimizuoti serverio valdymą."
+          },
+          "privateeyes": {
+            "description": "PrivateEyes yra universalus NSFW botas su funkcijomis, skirtomis suaugusioms bendruomenėms ir SFW turiniui. Idealiai tinka linksmiems ir atsipalaidavusiems serveriams."
+          }
+        }
+      },
+      "projects": {
+        "tag": "Planavimas",
+        "title": "Pagerinti ir supaprastinti jūsų Discord patirtį",
+        "bots": {
+          "title": "Individualus Discord botų kūrimas",
+          "description": "Speciali asmenų grupė, įsipareigojusi kurti individualius Discord botus, kurie pagerina jūsų serverio funkcionalumą ir vartotojo patirtį.",
+          "features": {
+            "1": "Pritaikyti botų sprendimai jūsų konkretiems poreikiams",
+            "2": "Supaprastintas Discord nustatymas ir konfigūracija",
+            "3": "Atsidavusi komanda, įsipareigojusi jūsų sėkmei"
+          },
+          "cta": "Mūsų Botai"
+        },
+        "support": {
+          "title": "Profesionalus palaikymo serveris",
+          "description": "Mūsų specializuotas palaikymo serveris teikia išsamią pagalbą ir patarimus, kad padėtų jums kuo geriau išnaudoti savo Discord patirtį.",
+          "features": {
+            "1": "Ekspertų patarimai ir pagalba sprendžiant problemas",
+            "2": "Į bendruomenę orientuota palaikymo aplinka",
+            "3": "Supaprastinti Discord visų lygių vartotojams"
+          },
+          "cta": "Susisiekite su mumis"
+        }
+      },
+      "numbers": {
+        "tag": "Kodėl pasirinkti mus",
+        "title": "Mūsų sprendimai, jūsų sėkmė",
+        "stats": {
+          "uptime": {
+            "label": "Visuotinis veikimo laikas",
+            "value": "99.9%",
+            "link": "Patikrinkite dabar"
+          },
+          "guilds": {
+            "label": "Patikimas daugelio gildijų",
+            "value": "1.2k+",
+            "link": "Peržiūrėti statistiką"
+          },
+          "users": {
+            "label": "Patikimas daugelio vartotojų",
+            "value": "120k+",
+            "link": "Peržiūrėti statistiką"
+          },
+          "projects": {
+            "label": "Užbaigti projektai",
+            "value": "2+",
+            "link": "Peržiūrėti projektus"
+          }
+        }
+      }
+    },
+
+    "news": {
+      "meta": {
+        "title": "Naujienos",
+        "description": "Gaukite svarbią informaciją apie mūsų paslaugas ir komandą, įskaitant mūsų svetainę!"
+      },
+      "articles": {
+        "ui_update": {
+          "title": "Naujas vartotojo sąsajos naujinys",
+          "description": "Svetainės vartotojo sąsaja buvo atnaujinta į naują dizainą. Tikimės, kad jums patiks!<br><br>Taip pat dirbame su Disutils komandai skirtu prietaisų skydeliu, kuris netrukus bus išleistas. Sekite naujienas!",
+          "author": "RejectModders Owner/Developer @Disutils Team",
+          "date": "2025-04-01"
+        },
+        "translation_recruitment": {
+          "title": "Vertėjų komandos įdarbinimas",
+          "description": "Mes ieškome atsidavusių asmenų, kurie prisijungtų prie mūsų vertimų komandos. \"Disutils\" svetainėje bus sukurtas asmeninis vertimų komandos puslapis, kuriame bus pristatytas jūsų indėlis.<br><br>Jei mokate kalbą ir norite padėti išversti, susisiekite su \"RejectModders\".",
+          "author": "RejectModders Owner/Developer @Disutils Team",
+          "date": "2024-11-13"
+        },
+        "website_launch": {
+          "title": "Svetainė išleista!",
+          "description": "Sveiki visi! Labai daug dirbome, kad ši svetainė atrodytų tikrai gerai, tikimės, kad jums patiks ir, jei pastebėsite kokių nors problemų, praneškite mums!",
+          "author": "RejectModders Owner/Developer @Disutils Team",
+          "date": "2024-10-31"
+        }
+      }
+    },
+
+    "faq": {
+      "meta": {
+        "title": "Dažnai užduodami klausimai",
+        "description": "Raskite atsakymus į dažniausiai užduodamus klausimus apie Disutils Team, mūsų botus ir mūsų paslaugas."
+      },
+      "title": "Dažnai užduodami klausimai",
+      "questions": [
+        {
+          "question": "Kas yra Disutils komanda?",
+          "answer": "Skirta asmenų grupė, pasiryžusi pagerinti ir supaprastinti Discord patirtį visiems vartotojams."
+        },
+        {
+          "question": "Kaip galiu prisijungti prie Disutils komandos?",
+          "answer": "Galite pateikti paraišką prisijungti prie Disutils komandos apsilankę mūsų <a href=\"/apply-staff\" class=\"text-blue-500 underline\">paraiškos puslapyje</a>."
+        },
+        {
+          "question": "Ar botus galima naudoti nemokamai?",
+          "answer": "Taip, visi mūsų botai gali būti naudojami nemokamai. Tačiau mes siūlome aukščiausios kokybės funkcijas tiems, kurie nori mus palaikyti."
+        },
+        {
+          "question": "Kaip pakviesti botą į savo serverį?",
+          "answer": "Spustelėkite nuorodą <a href=\"/bots\" class=\"text-blue-500 underline\">Pakviesti mūsų robotus</a> ir vadovaukitės instrukcijomis."
+        },
+        {
+          "question": "Kur galiu rasti botų dokumentaciją?",
+          "answer": "Dokumentaciją galite rasti <a href=\"/docs\" class=\"text-blue-500 underline\">Dokumentacijos</a> puslapyje arba <a href=\"/bots\" class=\"text-blue-500 underline\">Botų</a> puslapyje."
+        },
+        {
+          "question": "Kaip galiu gauti pagalbą?",
+          "answer": "Prisijunkite prie mūsų <a href=\"/support\" class=\"text-blue-500 underline\">Discord serverio</a> arba parašykite mums el. laišką adresu <a href=\"mailto:support@disutils.com\" class=\"text-blue-500 underline\">support@disutils.com</a>."
+        },
+        {
+          "question": "Ką daryti, jei randu klaidą?",
+          "answer": "Naudokite boto pranešimo apie klaidas komandą, praneškite apie tai mūsų Discord arba atsiųskite mums el. laišką."
+        },
+        {
+          "question": "Ar galiu prisidėti prie botų kūrimo?",
+          "answer": "Taip! Žr. mūsų <a href=\"https://github.com/disutils/disutils\" class=\"text-blue-500 underline\">GitHub puslapį</a>."
+        },
+        {
+          "question": "Ar siūlote pasirinktinio boto kūrimą?",
+          "answer": "Taip. Susisiekite su mumis per mūsų <a href=\"/contact\" class=\"text-blue-500 underline\">kontaktų puslapį</a>."
+        },
+        {
+          "question": "Kaip gauti naujausias naujienas?",
+          "answer": "Stebėkite mūsų <a href=\"/news\" class=\"text-blue-500 underline\">naujienų puslapį</a> arba prisijunkite prie mūsų Discord serverio."
+        }
+      ]
+    },
+
+    "team": {
+      "meta": {
+        "title": "Mūsų Komanda",
+        "description": "Susipažinkite su atsidavusiais asmenimis, kurie nenuilstamai dirba, kad pagerintų jūsų Discord patirtį."
+      },
+      "title": "Mūsų Komanda",
+      "roles": {
+        "leadership": {
+          "lead_bot_dev": {
+            "title": "Pagrindiniai botų kūrėjai",
+            "hiring_message": "Šiuo metu nėra pagrindinių botų kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "lead_backend_dev": {
+            "title": "Pagrindiniai Backend kūrėjai",
+            "hiring_message": "Šiuo metu nėra pagrindinių Backend kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "lead_web_dev": {
+            "title": "Pagrindiniai svetainės kūrėjai",
+            "hiring_message": "Šiuo metu nėra pagrindinių svetainės kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          }
+        },
+        "development": {
+          "junior_bot_dev": {
+            "title": "Jaunesnieji botų kūrėjai",
+            "hiring_message": "Šiuo metu nėra jaunesniųjų botų kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "junior_backend_dev": {
+            "title": "Jaunesnieji Backend kūrėjai",
+            "hiring_message": "Šiuo metu nėra jaunesniųjų Backend kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "junior_web_dev": {
+            "title": "Jaunesnieji svetainės kūrėjai",
+            "hiring_message": "Šiuo metu nėra jaunesniųjų svetainės kūrėjų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          }
+        },
+        "operations": {
+          "sys_admins": {
+            "title": "Sistemos administratoriai",
+            "hiring_message": "Šiuo metu nėra sistemos administratorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "ops_managers": {
+            "title": "Operacijų vadovai",
+            "hiring_message": "Šiuo metu nėra operacijų vadovų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          }
+        },
+        "management": {
+          "managers": {
+            "title": "Vadovai",
+            "hiring_message": "Šiuo metu nėra vadovų. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "admins": {
+            "title": "Administratoriai",
+            "hiring_message": "Šiuo metu nėra administratorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          }
+        },
+        "moderation": {
+          "lead_mods": {
+            "title": "Pagrindiniai moderatoriai",
+            "hiring_message": "Šiuo metu nėra pagrindinių moderatorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          },
+          "mods": {
+            "title": "Moderatoriai",
+            "hiring_message": "Šiuo metu nėra moderatorių. <a href=\"/apply-staff\" target=\"_blank\" style=\"text-decoration: underline; color: inherit;\">Pateikite paraišką čia!</a>"
+          }
+        }
+      },
+      "common": {
+        "hiring": "Samdome!"
+      }
+    },
+
+    "partners": {
+      "meta": {
+        "title": "Mūsų Partneriai",
+        "description": "Atraskite partnerystes, kurios padeda mums tobulinti ir plėsti paslaugas Discord vartotojams."
+      },
+      "title": "Mūsų partneriai",
+      "actions": {
+        "read_more": "Skaityti daugiau",
+        "close": "Uždaryti"
+      },
+      "content": {
+        "example_partner": "Čia galėtumėte būti jūs!",
+        "join_us": "Prisijunkite prie mūsų ir tapkite partneriu, kad galėtumėte mėgautis išskirtiniais privalumais. ",
+        "apply_here": "Kreipkitės čia!"
+      }
+    },
+
+    "bots": {
+      "meta": {
+        "title": "Mūsų Botai",
+        "description": "Naršykite mūsų Discord botų kolekciją, skirtą pagerinti ir patobulinti jūsų serverio patirtį."
+      },
+      "title": "Mūsų botai",
+      "categories": {
+        "core_bots": "Pagrindiniai botai",
+        "acquired_bots": "Įgauti botai",
+        "internal_bots": "Vidiniai botai",
+        "coming_soon": "Netrukus!"
+      }
+    },
+
+    "status": {
+      "meta": {
+        "title": "Botų būklė",
+        "description": "Patikrinkite dabartinę visų mūsų Discord botų veikimo būseną."
+      },
+      "title": "Botų būklės",
+      "description": "Pasidomėkite mūsų botų būklėmis",
+      "categories": {
+        "core_bots": "Pagrindiniai botai",
+        "acquired_bots": "Įgauti botai",
+        "internal_bots": "Vidiniai botai"
+      },
+      "states": {
+        "fetching": "Gaunama...",
+        "online": "Prijungtas",
+        "offline": "Atjungtas"
+      },
+      "time": {
+        "seconds_ago": "Prieš {seconds} sekundes",
+        "minutes_ago": "Prieš {minutes} minutes",
+        "refresh_time": "Atsinaujina kas {time} minutes"
+      },
+      "metrics": {
+        "latency": "Discord delsos laikas (ms)",
+        "db_latency": "DB delsos laikas (ms)"
+      }
+    },
+
+    "contact": {
+      "meta": {
+        "title": "Susisiekite su mumis",
+        "description": "Susisiekite su Disutils komanda dėl užklausų, palaikymo ar atsiliepimų apie mūsų paslaugas."
+      },
+      "title": "Kreipkitės į mus!",
+      "description": "Nedvejodami susisiekite su mumis naudodami toliau pateiktas parinktis, o mūsų skirta komanda nedelsdama atsakys į jūsų užklausas.",
+      "form": {
+        "question_feed": "Turite klausimų ar atsiliepimų?  Užpildykite žemiau esančią formą.",
+        "submit": "Siųsti žinutę",
+        "send_form": "Siųsti formą",
+        "fields": {
+          "name": "Vardas ir Pavardė",
+          "email": "El. pašto adresas",
+          "subject": "Tema",
+          "message": "Jūsų žinutė..."
+        },
+        "states": {
+          "email_sent": "el. paštas sėkmingai išsiūstas!",
+          "email_failed": "Nepavyko išsiūsti el. pašto.",
+          "sending": "Siunčiama..."
+        }
+      },
+      "alternatives": {
+        "email_message": "Arba atsiųskite mums pranešimą <a class=\"uc-link\" href=\"mailto:support@disutils.com\">el. paštu</a>.",
+        "other_support": "Kiti būdai susisiekti su mumis",
+        "priority_support": "Gaukite prioritetinę pagalba.",
+        "community": "Mūsų bendruomenė",
+        "connect": "Susijunkite su naudotojais",
+        "discord": "Prisijunkite dabar!"
+      }
+    },
+
+    "appeal": {
+      "meta": {
+        "title": "Juodojo sąrašo apeliacija",
+        "description": "Pateikite apeliaciją, jei manote, kad buvote neteisingai įtrauktas į mūsų paslaugų juodąjį sąrašą."
+      },
+      "title": "Apeliacijos forma",
+      "description": "Jei manote, kad buvote klaidingai įtrauktas į juodąjį sąrašą, užpildykite toliau pateiktą formą, kad pateiktumėte apeliaciją.",
+      "form": {
+        "submit": "Pateikti apeliaciją",
+        "send_form": "Siųsti formą",
+        "fields": {
+          "username": "Įveskite savo vartotojo vardą",
+          "display_name": "Įveskite rodomą vardą",
+          "user_id": "Įveskite savo vartotojo ID",
+          "email": "Įveskite savo el. pašto adresą",
+          "reason": "Paaiškinkite savo apeliacijos priežastį.."
+        },
+        "states": {
+          "email_sent": "El. laiškas sėkmingai išsiųstas!",
+          "email_failed": "Nepavyko išsiųsti el. laiško.",
+          "sending": "Siunčiama..."
+        }
+      },
+      "alternatives": {
+        "email_message": "Arba atsiųskite mums žinutę <a class=\"uc-link\" href=\"mailto:support@disutils.com\">el. paštu</a>."
+      }
+    },
+
+    "prices": {
+      "meta": {
+        "title": "Kainodara",
+        "description": "Naršykite mūsų Discord botų kūrimo ir prieglobos kainodaros parinktis, kad rastumėte geriausią paketą savo poreikiams."
+      },
+      "header": {
+        "tagline": "Raskite idealų botą",
+        "title": "Pasirinkite savo tobulą Discord boto paketą",
+        "discord_bots": "Discord Botai",
+        "hosting": "Boto priegloba"
+      },
+      "plans": {
+        "bot_basic": {
+          "name": "Pagrindinis botas",
+          "price": "$19",
+          "period": "Vienkartinis",
+          "features": [
+            "Pagrindinė boto funkcija",
+            "Pagrindinės komandos ir atsakymai",
+            "Iki 5 pasirinktinių komandų",
+            "Veikia iki 3 serverių",
+            "Pagrindinis palaikymas el. paštu"
+          ],
+          "cta": "Pradėti"
+        },
+        "bot_advanced": {
+          "name": "Pažangus botas",
+          "price": "$49",
+          "period": "Vienkartinis",
+          "features": [
+            "10+ integruotų sistemų",
+            "Pažangus registravimas ir analizė",
+            "Iki 15 pasirinktinių komandų",
+            "Veikia iki 10 serverių",
+            "Prioritetinis Discord palaikymas"
+          ],
+          "cta": "Pradėti"
+        },
+        "bot_premium": {
+          "name": "Premium botas",
+          "price": "$89",
+          "period": "Vienkartinis",
+          "features": [
+            "Pažangios individualios sistemos",
+            "Duomenų bazės integravimas",
+            "Neribotos pasirinktinės komandos",
+            "Neriboti serveriai",
+            "24/7 skirtas palaikymas"
+          ],
+          "cta": "Pradėti"
+        },
+        "hosting_basic": {
+          "name": "Pagrindinis VPS",
+          "price": "$4",
+          "period": "per mėnesį",
+          "features": [
+            "2GB RAM",
+            "0.25 vCPU branduolys",
+            "5GB SSD saugykla",
+            "Neribotas pralaidumas",
+            "Bendruomenės palaikymas"
+          ],
+          "cta": "Pradėti"
+        },
+        "hosting_advanced": {
+          "name": "Duomenų bazės priegloba",
+          "price": "$4",
+          "period": "per mėnesį",
+          "features": [
+            "PostgreSQL duomenų bazė",
+            "2GB saugykla",
+            "Savaitinė atsarginių kopijų sistema",
+            "Neribotas pralaidumas",
+            "Bendruomenės palaikymas"
+          ],
+          "cta": "Pradėti"
+        },
+        "hosting_premium": {
+          "name": "Visas paketas",
+          "price": "$7",
+          "period": "per mėnesį",
+          "features": [
+            "Apima pagrindinį VPS + duomenų bazės prieglobą",
+            "7GB bendra saugykla (5GB SSD + 2GB DB)",
+            "Savaitinės automatinės atsarginės kopijos",
+            "Neribotas pralaidumas",
+            "Prioritetinis palaikymas"
+          ],
+          "cta": "Pradėti"
+        }
+      },
+      "faq": {
+        "title": "Dažnai užduodami klausimai",
+        "subtitle": "Viskas, ką reikia žinoti apie mūsų Discord botų kūrimo paslaugas.",
+        "questions": [
+          {
+            "question": "Ar man reikia pačiam priglobti botą?",
+            "answer": "Ne, mūsų paketuose yra priegloba pirmąjį mėnesį. Po to galite pasirinkti mūsų mėnesinį prieglobos planą arba priglobti patys."
+          },
+          {
+            "question": "Ar galiu prašyti individualių funkcijų?",
+            "answer": "Taip! Kiekvienas planas leidžia naudoti individualias komandas, ir mes džiaugiamės galėdami aptarti papildomas individualias funkcijas už papildomą mokestį."
+          },
+          {
+            "question": "Kiek laiko užtrunka sukurti mano botą?",
+            "answer": "Pagrindiniai botai paprastai užtrunka 3-5 dienas, pažangūs botai 7-10 dienų, o premium botai 14-21 dieną, priklausomai nuo sudėtingumo."
+          },
+          {
+            "question": "Ar siūlote nuolatinį palaikymą?",
+            "answer": "Mes teikiame nemokamą klaidų taisymą 30 dienų. Po to siūlome prieinamus mėnesinius priežiūros planus."
+          }
+        ],
+        "help_box": {
+          "title": "Turite kitokį klausimą?",
+          "text": "Susisiekite su mumis tiesiogiai, kad gautumėte atsakymus apie mūsų Discord botų paslaugas.",
+          "cta": "Susisiekite su mumis"
+        }
+      }
+    },
+
+    "documentation": {
+      "meta": {
+        "title": "Dokumentacija",
+        "description": "Išsamūs vadovai ir dokumentacija visiems mūsų Discord botams ir paslaugoms."
+      }
+    },
+
+    "changelogs": {
+      "meta": {
+        "title": "Pakeitimų žurnalas",
+        "description": "Būkite atnaujintas su naujausiais mūsų Discord botų pakeitimais ir patobulinimais."
+      }
+    }
+  },
+
+  "legal": {
+    "privacy": {
+      "meta": {
+        "title": "Privatumo politika",
+        "description": "Mūsų įsipareigojimas saugoti jūsų privatumą ir kaip mes tvarkome jūsų duomenis."
+      },
+      "title": "Privatumo Politika",
+      "description": "„Disutils Team“ įsipareigoja saugoti jūsų privatumą. Šioje privatumo politikoje aprašoma, kaip renkame, naudojame ir saugome jūsų asmeninę informaciją. Šiame dokumente \"Mūsų robotai\" reiškia „Disutils“ komandos sukurtus robotus.",
+      "sections": {
+        "general_provisions": {
+          "title": "Bendrosios nuostatos",
+          "content": {
+            "acceptance": "<strong>Sąlygų priėmimas:</strong> naudodami mūsų robotus sutinkate su šia privatumo politika. Jei nesutinkate su kuria nors šios politikos dalimi, nenaudokite mūsų robotų.",
+            "modifications": "<strong>Politikos pakeitimai:</strong> galime periodiškai atnaujinti šią privatumo politiką. Jūs privalote reguliariai peržiūrėti šią politiką. Tolesnis mūsų robotų naudojimas po bet kokių pakeitimų reiškia, kad sutinkate su peržiūrėta politika.",
+            "scope": "<strong>Politikos taikymo sritis:</strong> ši privatumo politika taikoma bet kokiai sąveikai su mūsų robotais ir netaikoma jokioms trečiųjų šalių paslaugoms ar svetainėms, kurios gali būti susietos iš mūsų robotų."
+          }
+        },
+        "data_collection": {
+          "title": "Duomenų rinkimas",
+          "content": {
+            "user_data": "<strong>Naudotojo duomenys:</strong> mūsų robotai renka ir saugo naudotojų ID ir susijusius pranešimus tik tam, kad galėtų veiksmingai atlikti savo funkcijas.",
+            "feedback_data": "<strong>Atsiliepimų duomenys:</strong> jei pateikiate atsiliepimų apie mūsų robotus, galime rinkti ir panaudoti tuos atsiliepimus nuolatiniam jų tobulinimui ir plėtrai. Šie duomenys gali apimti pasiūlymus ir komentarus."
+          }
+        },
+        "data_usage": {
+          "title": "Duomenų naudojimas",
+          "content": {
+            "command_execution": "<strong>Komandų vykdymas:</strong> Mūsų robotų surinkti naudotojo duomenys naudojami tik jų komandoms vykdyti. Mes nenaudojame šių duomenų jokiais kitais tikslais.",
+            "feedback_usage": "<strong>Atsiliepimų naudojimas:</strong> pateikti atsiliepimai gali būti naudojami mūsų robotų funkcijoms ir naudotojo patirčiai pagerinti. Tačiau mes neatskleidžiame jūsų asmeninės informacijos be aiškaus jūsų sutikimo."
+          }
+        },
+        "data_security": {
+          "title": "Duomenų saugumas",
+          "content": {
+            "data_protection": "<strong>Duomenų apsauga:</strong> įgyvendiname pagrįstas priemones, kad apsaugotume mūsų robotų surinktus duomenis, tačiau negalime garantuoti visiško saugumo. Mes nesame atsakingi už jokius duomenų pažeidimus."
+          }
+        },
+        "data_deletion": {
+          "title": "Duomenų pašalinimas",
+          "content": {
+            "data_request": "<strong>Duomenų užklausa:</strong> bet kuriuo metu galite pateikti užklausą peržiūrėti mūsų robotų saugomus duomenis, susisiekę su mūsų pagalbos komanda. <strong><u>Pastaba: duomenų užklausas galima pateikti tik kartą per 30 dienų.</u></strong>",
+            "data_deletion": "<strong>Duomenų ištrynimas:</strong> susisiekę su mūsų pagalbos komanda galite bet kuriuo metu prašyti ištrinti visus mūsų robotų saugomus duomenis. <strong><u>Pastaba: duomenų ištrynimo užklausas galima pateikti tik kartą per 30 dienų.</u></strong>"
+          }
+        },
+        "data_disclosure": {
+          "title": "Duomenų atskleidimas",
+          "content": {
+            "third_party": "<strong>Trečiųjų šalių paslaugos:</strong> mūsų robotai neparduoda, nebendrina ir neatskleidžia naudotojo duomenų trečiosioms šalims. Mūsų robotų šaltinio kodas taip pat yra privatus ir niekam neatskleidžiamas. Prieglobai, saugojimui ar palaikymui galime naudoti trečiųjų šalių paslaugas, tačiau jos yra saistomos savo privatumo politikos ir saugos priemonių."
+          }
+        },
+        "nsfw_content": {
+          "title": "NSFW turinys",
+          "content": {
+            "explicit_content": "<strong>Nepadorus turinys:</strong> mūsų robotai gali suteikti prieigą prie nepadoraus turinio, skirto tik jų jurisdikcijoje pilnamečiams naudotojams, kurie sutinka žiūrėti suaugusiesiems skirtą medžiagą.",
+            "user_acknowledgment": "<strong>Naudotojo patvirtinimas:</strong> naudodamiesi mūsų botų NSFW funkcijomis pripažįstate ir sutinkate, kad nepadorų turinį pasiekiate savo nuožiūra. Jei esate nepilnametis arba jums nepatinka atvira medžiaga, nenaudokite šių funkcijų."
+          }
+        }
+      },
+      "contact": "Jei turite klausimų dėl mūsų privatumo politikos, susisiekite su mumis adresu <a href=\"mailto:support@disutils.com\" class=\"text-blue-400 underline hover:text-blue-600\">support@disutils.com</a>.",
+      "last_updated": "Paskutinį kartą atnaujinta: Balandžio 1, 2025"
+    },
+
+    "terms": {
+      "meta": {
+        "title": "Paslaugų teikimo sąlygos",
+        "description": "Taisyklės ir nuostatai, reglamentuojantys mūsų Discord botų ir paslaugų naudojimą."
+      },
+      "title": "Paslaugų teikimo sąlygos",
+      "description": "„Disutils Team“ įsipareigoja teikti kokybiškas paslaugas. Šiose paslaugų teikimo sąlygose išdėstytos mūsų robotų naudojimo taisyklės ir nuostatai. Šiame dokumente \"Mūsų robotai\" reiškia „Disutils“ komandos sukurtus robotus.",
+      "sections": {
+        "general_provisions": {
+          "title": "Bendrosios nuostatos",
+          "content": {
+            "acceptance": "<strong>Sąlygų priėmimas:</strong> integruodami mūsų robotus į savo serverį, jūs pripažįstate ir sutinkate su šiomis paslaugų teikimo sąlygomis. Jei nesutinkate su kuria nors šių sąlygų dalimi, nenaudokite mūsų robotų.",
+            "modifications": "<strong>Sąlygų pakeitimai:</strong> pasiliekame teisę bet kada keisti šias sąlygas. Jūs privalote periodiškai peržiūrėti šias Sąlygas. Jei po bet kokių pakeitimų toliau naudojatės mūsų robotais, tai reiškia, kad sutinkate su atnaujintomis sąlygomis."
+          }
+        },
+        "user_responsibilities": {
+          "title": "Naudotojo atsakomybės",
+          "content": {
+            "compliance": "<strong>Atitiktis:</strong> naudotojai, naudodami mūsų robotus, privalo laikytis visų taikomų įstatymų ir taisyklių.",
+            "conduct": "<strong>Elgesys:</strong> sutinkate nenaudoti mūsų robotų jokiai neteisėtai ar draudžiamai veiklai, įskaitant, bet tuo neapsiribojant, priekabiavimą, šlamšto siuntimą ar bet kokį piktnaudžiavimą."
+          }
+        },
+        "support_feedback": {
+          "title": "Pagalba ir atsiliepimai",
+          "content": {
+            "feedback": "<strong>Atsiliepimai:</strong> laukiame jūsų atsiliepimų ir pasiūlymų, kaip patobulinti mūsų robotus. Pateikdami savo įžvalgas, suteikiate mums leidimą įtraukti jas į nuolatinius patobulinimus.",
+            "support": "<strong>Pagalba:</strong> dėsime pagrįstas pastangas, kad suteiktume techninę pagalbą mūsų robotams. Tačiau mes negarantuojame nenutrūkstamos paslaugos ir pasiliekame teisę bet kuriuo metu be išankstinio įspėjimo nutraukti Mūsų robotų paslaugas."
+          }
+        },
+        "termination": {
+          "title": "Nutraukimas",
+          "content": {
+            "user": "<strong>Naudotojo atliktas nutraukimas:</strong> galite bet kuriuo metu savo nuožiūra pašalinti mūsų robotus iš serverio.",
+            "us": "<strong>Mūsų vykdomas nutraukimas:</strong> pasiliekame teisę savo nuožiūra be įspėjimo ar paaiškinimo nutraukti mūsų robotų paslaugas."
+          }
+        },
+        "disclaimer": {
+          "title": "Garantijos atsisakymas",
+          "content": {
+            "no_warranty": "<strong>Jokios garantijos:</strong> mūsų robotai teikiami tokie, kokie yra, be jokių tiesioginių ar numanomų garantijų. Mes negarantuojame mūsų robotų paslaugų tikslumo, patikimumo ar prieinamumo."
+          }
+        },
+        "liability": {
+          "title": "Atsakomybės apribojimas",
+          "content": {
+            "liability": "<strong>Atsakomybė:</strong> mūsų robotų kūrėjai ar filialai jokiu būdu nėra atsakingi už jokią tiesioginę, netiesioginę, specialią ar pasekminę žalą, atsiradusią dėl mūsų robotų naudojimo ar negalėjimo naudoti."
+          }
+        }
+      },
+      "contact": "Jei turite klausimų dėl paslaugų teikimo sąlygų, susisiekite su mumis adresu <a href=\"mailto:support@disutils.com\" class=\"text-blue-400 underline hover:text-blue-600\">support@disutils.com</a>.",
+      "last_updated": "Paskutinį kartą atnaujinta: Balandžio 1, 2025"
+    }
+  },
+
+  "system": {
+    "coming_soon": {
+      "meta": {
+        "title": "Netrukus",
+        "description": "Šis puslapis yra kuriamas ir netrukus bus pasiekiamas."
+      },
+      "title": "Gryšime netrukus!",
+      "message": "Grįžkite dar kartą, kai būsime prisijungę!",
+      "thanks": "Dėkojame už supratingumą ir kantrybę!",
+      "days": "Dienos",
+      "hours": "Valandos",
+      "minutes": "Minutės",
+      "seconds": "Sekundės"
+    },
+
+    "errors": {
+      "meta": {
+        "title": "Klaida",
+        "description": "Apdorojant jūsų užklausą įvyko klaida."
+      },
+      "titles": {
+        "bad_request": "Blogas prašymas!",
+        "unauthorized": "Neteisėta prieiga!",
+        "forbidden": "Uždrausta zona!",
+        "not_found": "Pasiklydę kosmose!",
+        "internal_server_error": "Serverio žlugimas!",
+        "unknown_error": "Nežinoma klaida!"
+      },
+      "messages": {
+        "bad_request": "Blogas prašymas! Tai buvo labiau painu nei katė, atliekanti skaičiavimus. Bandykite dar kartą, bet galbūt su mažiau rašybos klaidų ir daugiau kavos.",
+        "unauthorized": "Neleistina! Kas ten eina?! Gali praeiti tik tie, kurie turi šventus įgaliojimus. Kalbėkite, „draugas“, ir įveskite... arba tiesiog tinkamai prisijunkite.",
+        "forbidden": "Draudžiama! Jūs pakliuvote į draudžiamą zoną. Legenda sako, kad įeiti gali tik išrinktasis. Spoileris: tai ne jūs.",
+        "not_found": "Nerasta! Šis puslapis išėjo atostogų, nepaliko persiuntimo adreso ir neatsako į žinutes. Prieš pateikdami trūkstamo puslapio ataskaitą, pabandykite ieškoti kitur.",
+        "internal_server_error": "Vidinė serverio klaida! Serveris tiesiog pyksta, užgeso. Mes jį papirkinėjame užkandžiais ir komplimentais. Prašome palūkėti.",
+        "unknown_error": "Nežinoma klaida! Kažkas nutrūko paslaptingai, dramatiškai. Net mūsų technologijų vedlys kasosii barzdą. Bandykite dar kartą arba pasikvieskite ožką aukai. (Juokauju... Iš dalies.)"
+      },
+      "actions": {
+        "home": "Grįžti į pagrindinį puslapį",
+        "search_now": "Kodėl nepabandžius ieškoti dar kartą? <a class=\"uc-link\" href=\"#uc-search-modal\" data-uc-toggle>Ieškoti dabar</a>",
+        "search_text": "Ko ieškote?",
+        "search_keyword": "Įveskite raktinį žodį…"
+      }
+    }
+  }
+}
