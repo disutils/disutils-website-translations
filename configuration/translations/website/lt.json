@@ -13,13 +13,13 @@
 
   "navigation": {
     "primary": {
-      "home": "Pagrindinis",
+      "home": "Pradžia",
       "news": "Naujienos",
-      "faq": "Dažni klausimai",
-      "team": "Mūsų Komanda",
-      "partners": "Mūsų Partneriai",
-      "bots": "Mūsų Botai",
-      "contact": "Susisiekite su mumis",
+      "faq": "DUK",
+      "team": "Komanda",
+      "partners": "Partneriai",
+      "bots": "Botai",
+      "contact": "Kontaktai",
       "more": "Daugiau",
       "login": "Prisijungti"
     },
@@ -55,7 +55,7 @@
         "title": "Pagrindinis",
         "description": "Disutils Team - Pagerinti ir supaprastinti jūsų Discord patirtį su kokybiškais botais ir įrankiais.",
         "meet": "Susipažinkite su",
-        "trusted": "Patikimas daugiau nei 1 000+ serverių"
+        "trusted": "Patikimas daugiau nei 120 000+ vartotojų ir 1 200+ serverių"
       },
       "actions": {
         "supportserver": "Pagalbos serveris",
@@ -414,41 +414,41 @@
       },
       "plans": {
         "bot_basic": {
-          "name": "Pagrindinis botas",
-          "price": "$19",
-          "period": "Vienkartinis",
+          "name": "Bazinis Botas",
+          "price": "$7",
+          "period": "Vienkartinis mokestis",
           "features": [
-            "Pagrindinė boto funkcija",
-            "Pagrindinės komandos ir atsakymai",
-            "Iki 5 pasirinktinių komandų",
-            "Veikia iki 3 serverių",
-            "Pagrindinis palaikymas el. paštu"
+            "Esminės serverio komandos",
+            "Baziniai moderavimo įrankiai",
+            "Standartiniai automatizuoti atsakymai",
+            "Bazinis registravimas ir stebėjimas",
+            "Bendruomenės palaikymas"
           ],
           "cta": "Pradėti"
         },
         "bot_advanced": {
-          "name": "Pažangus botas",
-          "price": "$49",
-          "period": "Vienkartinis",
+          "name": "Viskas Viename Botas",
+          "price": "$25",
+          "period": "Vienkartinis mokestis",
           "features": [
-            "10+ integruotų sistemų",
-            "Pažangus registravimas ir analizė",
-            "Iki 15 pasirinktinių komandų",
-            "Veikia iki 10 serverių",
-            "Prioritetinis Discord palaikymas"
+            "Viskas iš Bazinio boto",
+            "Pažangi moderavimo sistema",
+            "Kelių serverių valdymas",
+            "Pasirinktinių komandų kūrimas",
+            "Prioritetinis techninis palaikymas"
           ],
           "cta": "Pradėti"
         },
         "bot_premium": {
-          "name": "Premium botas",
-          "price": "$89",
-          "period": "Vienkartinis",
+          "name": "Pasirinktinis Botas",
+          "price": "$50+",
+          "period": "Vienkartinis mokestis",
           "features": [
-            "Pažangios individualios sistemos",
-            "Duomenų bazės integravimas",
-            "Neribotos pasirinktinės komandos",
-            "Neriboti serveriai",
-            "24/7 skirtas palaikymas"
+            "Viskas iš Viskas Viename boto",
+            "Visiškai pritaikytas funkcionalumas",
+            "Pasirinktinė duomenų bazės integracija",
+            "Individualizuotos boto funkcijos",
+            "24/7 dedikuotas palaikymas"
           ],
           "cta": "Pradėti"
         },

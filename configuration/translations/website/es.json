@@ -55,7 +55,7 @@
         "title": "Inicio",
         "description": "Disutils Team - Mejorando y simplificando tu experiencia en Discord con bots y utilidades de calidad.",
         "meet": "Conoce a",
-        "trusted": "Confiado por más de 1,000+ servidores"
+        "trusted": "Con la confianza de más de 120,000 usuarios y 1,200 servidores"
       },
       "actions": {
         "supportserver": "¿Necesitas soporte?",
@@ -414,40 +414,40 @@
       },
       "plans": {
         "bot_basic": {
-          "name": "Bot básico",
-          "price": "$19",
+          "name": "Bot Básico",
+          "price": "$7",
           "period": "Pago único",
           "features": [
-            "Funcionalidad básica del bot",
-            "Comandos y respuestas básicas",
-            "Hasta 5 comandos personalizados",
-            "Funciona en hasta 3 servidores",
-            "Soporte básico por correo electrónico"
+            "Comandos esenciales para servidor",
+            "Herramientas básicas de moderación",
+            "Respuestas automatizadas estándar",
+            "Registro y monitoreo básico",
+            "Soporte comunitario"
           ],
           "cta": "Empezar"
         },
         "bot_advanced": {
-          "name": "Bot avanzado",
-          "price": "$49",
+          "name": "Bot Todo en Uno",
+          "price": "$25",
           "period": "Pago único",
           "features": [
-            "10+ sistemas integrados",
-            "Registros y análisis avanzados",
-            "Hasta 15 comandos personalizados",
-            "Funciona en hasta 10 servidores",
-            "Soporte prioritario en Discord"
+            "Todo lo incluido en Bot Básico",
+            "Sistema avanzado de moderación",
+            "Gestión multi-servidor",
+            "Creación de comandos personalizados",
+            "Soporte técnico prioritario"
           ],
           "cta": "Empezar"
         },
         "bot_premium": {
-          "name": "Bot premium",
-          "price": "$89",
+          "name": "Bot Personalizado",
+          "price": "$50+",
           "period": "Pago único",
           "features": [
-            "Sistemas personalizados avanzados",
-            "Integración de base de datos",
-            "Comandos personalizados ilimitados",
-            "Servidores ilimitados",
+            "Todo lo incluido en Bot Todo en Uno",
+            "Funcionalidad completamente personalizada",
+            "Integración de base de datos personalizada",
+            "Características de bot personalizadas",
             "Soporte dedicado 24/7"
           ],
           "cta": "Empezar"

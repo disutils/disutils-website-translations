@@ -55,7 +55,7 @@
         "title": "Home",
         "description": "Disutils Team - Enhancing and simplifying your Discord experience with quality bots and utilities.",
         "meet": "Meet",
-        "trusted": "Trusted by over 1,000+ guilds"
+        "trusted": "Trusted by over 120,000+ users and 1,200+ guilds"
       },
       "actions": {
         "supportserver": "Support Server",
@@ -414,40 +414,40 @@
       },
       "plans": {
         "bot_basic": {
-          "name": "Basic bot",
-          "price": "$19",
+          "name": "Basic Bot",
+          "price": "$7",
           "period": "One-time",
           "features": [
-            "Core bot functionality",
-            "Basic commands and responses",
-            "Up to 5 custom commands",
-            "Works in up to 3 servers",
-            "Basic email support"
+            "Essential server commands",
+            "Basic moderation tools",
+            "Standard automated responses",
+            "Basic logging & monitoring",
+            "Community support"
           ],
           "cta": "Get started"
         },
         "bot_advanced": {
-          "name": "Advanced bot",
-          "price": "$49",
+          "name": "AIO Bot",
+          "price": "$25",
           "period": "One-time",
           "features": [
-            "10+ integrated systems",
-            "Advanced logging and analytics",
-            "Up to 15 custom commands",
-            "Works in up to 10 servers",
-            "Priority Discord support"
+            "Everything in Basic Bot",
+            "Advanced moderation system",
+            "Multi-server management",
+            "Custom command creation",
+            "Priority technical support"
           ],
           "cta": "Get started"
         },
         "bot_premium": {
-          "name": "Premium bot",
-          "price": "$89",
+          "name": "Custom Bot",
+          "price": "$50+",
           "period": "One-time",
           "features": [
-            "Advanced custom systems",
-            "Database integration",
-            "Unlimited custom commands",
-            "Unlimited servers",
+            "Everything in AIO Bot",
+            "Fully customized functionality",
+            "Custom database integration",
+            "Personalized bot features",
             "24/7 dedicated support"
           ],
           "cta": "Get started"
@@ -457,11 +457,11 @@
           "price": "$4",
           "period": "per month",
           "features": [
-            "2GB RAM",
-            "0.25 vCPU Core",
+            "2GB RAM / 0.25 vCPU Core",
             "5GB SSD Storage",
-            "Unlimited Bandwidth",
-            "Community Support"
+            "Unlimited Network Transfer",
+            "99.9% Uptime Guarantee",
+            "Standard Technical Support"
           ],
           "cta": "Get started"
         },
@@ -471,10 +471,10 @@
           "period": "per month",
           "features": [
             "PostgreSQL Database",
-            "2GB Storage",
-            "Weekly Backup System",
-            "Unlimited Bandwidth",
-            "Community Support"
+            "2GB Dedicated Storage",
+            "Automated Weekly Backups",
+            "Secure Remote Connection",
+            "Database Performance Monitoring"
           ],
           "cta": "Get started"
         },
@@ -483,11 +483,11 @@
           "price": "$7",
           "period": "per month",
           "features": [
-            "Contains Basic VPS + Database Hosting",
-            "7GB Total Storage (5GB SSD + 2GB DB)",
-            "Weekly Automated Backups",
-            "Unlimited Bandwidth",
-            "Priority Support"
+            "Combined VPS & Database Solution",
+            "7GB Total Storage Configuration",
+            "Daily Automated Backups",
+            "Advanced Security Monitoring",
+            "Priority Technical Support"
           ],
           "cta": "Get started"
         }

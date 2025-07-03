@@ -55,7 +55,7 @@
         "title": "Accueil",
         "description": "Disutils Team - Améliorer et simplifier votre expérience Discord avec des bots et des utilitaires de qualité.",
         "meet": "Rencontrez la",
-        "trusted": "Approuvé par plus de 1 000 serveurs"
+        "trusted": "Approuvé par plus de 120 000 utilisateurs et 1 200 serveurs"
       },
       "actions": {
         "supportserver": "Serveur de support",
@@ -414,40 +414,40 @@
       },
       "plans": {
         "bot_basic": {
-          "name": "Bot de base",
-          "price": "$19",
-          "period": "Unique",
+          "name": "Bot Basique",
+          "price": "$7",
+          "period": "Paiement unique",
           "features": [
-            "Fonctionnalité de base du bot",
-            "Commandes et réponses de base",
-            "Jusqu'à 5 commandes personnalisées",
-            "Fonctionne sur jusqu'à 3 serveurs",
-            "Support par e-mail de base"
+            "Commandes serveur essentielles",
+            "Outils de modération basiques",
+            "Réponses automatisées standard",
+            "Journalisation et surveillance basiques",
+            "Support communautaire"
           ],
           "cta": "Commencer"
         },
         "bot_advanced": {
-          "name": "Bot avancé",
-          "price": "$49",
-          "period": "Unique",
+          "name": "Bot Tout-en-Un",
+          "price": "$25",
+          "period": "Paiement unique",
           "features": [
-            "10+ systèmes intégrés",
-            "Journalisation et analyses avancées",
-            "Jusqu'à 15 commandes personnalisées",
-            "Fonctionne sur jusqu'à 10 serveurs",
-            "Support Discord prioritaire"
+            "Toutes les fonctionnalités du Bot Basique",
+            "Système de modération avancé",
+            "Gestion multi-serveurs",
+            "Création de commandes personnalisées",
+            "Support technique prioritaire"
           ],
           "cta": "Commencer"
         },
         "bot_premium": {
-          "name": "Bot premium",
-          "price": "$89",
-          "period": "Unique",
+          "name": "Bot Personnalisé",
+          "price": "$50+",
+          "period": "Paiement unique",
           "features": [
-            "Systèmes personnalisés avancés",
-            "Intégration de base de données",
-            "Commandes personnalisées illimitées",
-            "Serveurs illimités",
+            "Toutes les fonctionnalités du Bot Tout-en-Un",
+            "Fonctionnalités entièrement personnalisées",
+            "Intégration de base de données personnalisée",
+            "Fonctionnalités de bot sur mesure",
             "Support dédié 24/7"
           ],
           "cta": "Commencer"
