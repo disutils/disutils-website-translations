@@ -303,3 +303,6 @@ By contributing to this project, you agree to:
 Thank you for your interest in contributing to the Disutils Team website language integration. Your contribution helps make our tools and resources accessible to a wider audience.
 
 For any questions or assistance, please contact a team member through our Discord server or open an issue on GitHub.
+
+
+![Alt](https://repobeats.axiom.co/api/embed/1c397d53b71bb848c8ec244ee3eed4d823bd13f5.svg "Repobeats analytics image")
