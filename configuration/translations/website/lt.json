@@ -55,7 +55,7 @@
         "title": "Pagrindinis",
         "description": "Disutils Team - Pagerinti ir supaprastinti jūsų Discord patirtį su kokybiškais botais ir įrankiais.",
         "meet": "Susipažinkite su",
-        "trusted": "Patikimas daugiau nei 120 000+ vartotojų ir 1 200+ serverių"
+        "trusted": "Patikimas daugiau nei 150 000+ vartotojų ir 1 500+ serverių"
       },
       "actions": {
         "supportserver": "Pagalbos serveris",
@@ -116,12 +116,12 @@
           },
           "guilds": {
             "label": "Patikimas daugelio gildijų",
-            "value": "1.2k+",
+            "value": "1.5k+",
             "link": "Peržiūrėti statistiką"
           },
           "users": {
             "label": "Patikimas daugelio vartotojų",
-            "value": "120k+",
+            "value": "150k+",
             "link": "Peržiūrėti statistiką"
           },
           "projects": {
