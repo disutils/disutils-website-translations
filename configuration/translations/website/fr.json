@@ -55,7 +55,7 @@
         "title": "Accueil",
         "description": "Disutils Team - Améliorer et simplifier votre expérience Discord avec des bots et des utilitaires de qualité.",
         "meet": "Rencontrez la",
-        "trusted": "Approuvé par plus de 120 000 utilisateurs et 1 200 serveurs"
+        "trusted": "Approuvé par plus de 150 000 utilisateurs et 1 500 serveurs"
       },
       "actions": {
         "supportserver": "Serveur de support",
@@ -116,12 +116,12 @@
           },
           "guilds": {
             "label": "Approuvé par de nombreux serveurs",
-            "value": "1.2k+",
+            "value": "1.5k+",
             "link": "Voir les statistiques"
           },
           "users": {
             "label": "Approuvé par de nombreux utilisateurs",
-            "value": "120k+",
+            "value": "150k+",
             "link": "Voir les statistiques"
           },
           "projects": {
