@@ -55,7 +55,7 @@
         "title": "Inicio",
         "description": "Disutils Team - Mejorando y simplificando tu experiencia en Discord con bots y utilidades de calidad.",
         "meet": "Conoce a",
-        "trusted": "Con la confianza de más de 120,000 usuarios y 1,200 servidores"
+        "trusted": "Con la confianza de más de 150,000 usuarios y 1,500 servidores"
       },
       "actions": {
         "supportserver": "¿Necesitas soporte?",
@@ -116,12 +116,12 @@
           },
           "guilds": {
             "label": "Confiado por muchos servidores",
-            "value": "1.2k+",
+            "value": "1.5k+",
             "link": "Ver estadísticas"
           },
           "users": {
             "label": "Confiado por muchos usuarios",
-            "value": "120k+",
+            "value": "150k+",
             "link": "Ver estadísticas"
           },
           "projects": {
