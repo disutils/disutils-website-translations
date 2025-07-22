@@ -55,7 +55,7 @@
         "title": "Home",
         "description": "Disutils Team - Enhancing and simplifying your Discord experience with quality bots and utilities.",
         "meet": "Meet",
-        "trusted": "Trusted by over 120,000+ users and 1,200+ guilds"
+        "trusted": "Trusted by over 150,000+ users and 1,500+ guilds"
       },
       "actions": {
         "supportserver": "Support Server",
@@ -116,12 +116,12 @@
           },
           "guilds": {
             "label": "Trusted by many guilds",
-            "value": "1.2k+",
+            "value": "1.5k+",
             "link": "View Statistics"
           },
           "users": {
             "label": "Trusted by many users",
-            "value": "120k+",
+            "value": "150k+",
             "link": "View Statistics"
           },
           "projects": {
